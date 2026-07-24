@@ -9,72 +9,72 @@ export default function TermsAndConditions() {
         </h2>
 
         <p className="text-sm text-gray-600 font-semibold text-center -mt-4 mb-2">
-          Last updated: June 29, 2026
+          Last updated: July 25, 2026
         </p>
 
         <div className="space-y-6 text-gray-800 text-[15px] leading-relaxed font-medium text-left">
           <p>
-            By continuing to use <a href="https://yonoallgames.app/" className="text-blue-600 underline">Yono All Games</a>, you agree to these Terms and Conditions in full. If you do not agree, please discontinue use immediately. These terms apply to all pages, services, and features on our platform.
+            By using <a href="https://freeyonorummy.com/" className="text-blue-600 underline">Free Yono Rummy</a>, you agree to these Terms and Conditions. If you do not agree with any part of these terms, please stop using the platform immediately. These terms apply to the entire website, its services, and all related features.
           </p>
 
           <p>
-            All content, branding, designs, and functionality on this site are owned or licensed by Yono All Games. Unauthorized copying, distribution, or modification without written permission is prohibited.
+            All content, design, logos, and materials on this platform are owned or properly licensed by Free Yono Rummy. Copying, modifying, distributing, or using any part of the site without prior written permission is strictly prohibited.
           </p>
 
           <p>
-            You must be at least 18 years old to use our services. You are responsible for ensuring that any information you provide is accurate and lawful. Compliance with applicable local, national, and international laws is your duty while accessing or downloading any apps listed here.
+            You must be at least 18 years of age to access or use our services. You are solely responsible for ensuring that all information you provide is accurate and that your use of the platform complies with all applicable local, state, and national laws.
           </p>
 
           <p>
-            Use of Yono All Games is restricted to discovering and downloading verified skill‑based games. Automated scraping, reverse engineering, spamming, or other malicious activities are strictly forbidden and may result in access suspension or legal action.
+            Free Yono Rummy is intended only for discovering and downloading verified skill-based gaming apps. Any form of automated data scraping, reverse engineering, spamming, or disruptive activity is strictly forbidden and may lead to immediate account suspension or legal action.
           </p>
 
           <p>
-            We provide links to third‑party applications; each follows its own license and terms. Yono All Games does not modify, host, or distribute those apps. Any in‑app purchases or transactions occur entirely within the third‑party environment under their security protocols.
+            We provide links and information about third-party gaming apps. Each app operates under its own terms and conditions. Free Yono Rummy does not host, distribute, or control these external applications. Any transactions or in-app purchases occur directly between you and the third-party app.
           </p>
 
           <p>
-            When accessing apps via mobile devices, you agree to abide by platform‑specific policies (e.g., Google Play, App Store) which may override these Terms in certain respects.
+            When accessing apps through your mobile device, you agree to follow the rules and policies of the respective app stores or platforms you use.
           </p>
 
           <p>
-            It is your responsibility to comply with regional gaming and app‑usage laws. We only list skill‑based apps and highlight any state‑level restrictions (for example, Andhra Pradesh or Tamil Nadu). We are not liable if you breach local regulations.
+            It is your responsibility to understand and follow all regional laws related to online gaming. We highlight known restrictions in certain states, but we are not liable if you violate any local regulations.
           </p>
 
           <p>
-            Our platform may include sponsored content or affiliate links. Any interaction with advertisers or third parties is solely between you and them. Yono All Games disclaims responsibility for disputes arising from such interactions.
+            Our platform may contain affiliate links or sponsored content. Any interaction with advertisers or third parties is solely between you and them. Free Yono Rummy is not responsible for any disputes, transactions, or issues that arise from such interactions.
           </p>
 
           <p>
-            You are responsible for any account credentials if you choose to register. Maintain confidentiality and notify us promptly of any unauthorized access or security breach.
+            If you create an account or use any login features, you are responsible for keeping your credentials secure and notifying us immediately of any unauthorized access.
           </p>
 
           <p>
-            You agree not to upload malicious code, harvest other users’ data, impersonate others, or exploit system vulnerabilities. Such violations may incur permanent bans and potential legal consequences.
+            You agree not to upload harmful code, attempt to access other users’ data, impersonate others, or exploit any vulnerabilities on the platform. Such actions may result in permanent bans and legal consequences.
           </p>
 
           <p>
-            By using Yono All Games, you indemnify and hold us harmless against any claims or losses arising from your use of the platform, violation of these Terms, or actions taken by third parties to whom you have linked.
+            By using Free Yono Rummy, you agree to indemnify and hold us harmless from any claims, losses, or damages arising from your use of the platform, violation of these terms, or any actions taken through third-party links.
           </p>
 
           <p>
-            We are not liable for delays or failures due to events beyond our control (force majeure), such as natural disasters, cyberattacks, regulatory changes, or network outages.
+            We are not liable for any delays, interruptions, or failures caused by events beyond our reasonable control, including natural disasters, cyberattacks, government actions, or internet outages.
           </p>
 
           <p>
-            We may update these Terms at any time. Changes take effect immediately upon posting. Continued use of the site after updates indicates your acceptance of the new Terms. We recommend reviewing this page regularly.
+            We reserve the right to update or modify these Terms at any time. Changes become effective as soon as they are posted. Your continued use of the platform after updates means you accept the revised Terms. Please review this page periodically.
           </p>
 
           <p>
-            These Terms constitute the entire agreement between you and Yono All Games and supersede any prior agreements or communications regarding your use of our platform.
+            These Terms represent the complete agreement between you and Free Yono Rummy regarding your use of the platform and replace any previous agreements or understandings.
           </p>
 
           <p>
-            If any provision of these Terms is found unenforceable, the remaining provisions remain in full force. Our failure to enforce any right does not waive that right.
+            If any part of these Terms is found to be invalid or unenforceable, the remaining provisions will continue to apply in full. Our failure to enforce any right does not mean we waive that right.
           </p>
 
           <p>
-            All disputes arising under these Terms shall be governed by the laws of India. Any legal action must be brought in the courts of Uttar Pradesh, India.
+            These Terms are governed by the laws of India. Any legal disputes shall be resolved exclusively in the courts located in Uttar Pradesh, India.
           </p>
         </div>
       </div>

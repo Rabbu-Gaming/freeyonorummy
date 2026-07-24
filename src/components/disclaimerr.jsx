@@ -9,51 +9,51 @@ export default function Disclaimer() {
         </h2>
 
         <p className="text-sm text-gray-600 font-semibold text-center -mt-4 mb-2">
-          Last updated: June 29, 2026
+          Last updated: July 25, 2026
         </p>
 
         <div className="space-y-6 text-gray-800 text-[15px] leading-relaxed font-medium text-left">
           <p>
-            The content provided on{" "}
+            The information provided on{" "}
             <a
-              href="https://yonoallgames.app/"
+              href="https://freeyonorummy.com/"
               className="text-blue-600 underline"
             >
-              Yono All Games
+              Free Yono Rummy
             </a>{" "}
-            is intended solely for general informational purposes. While we aim to ensure accuracy and relevance, we do not offer any warranties—express or implied—about the completeness, reliability, or suitability of the content.
+            is for general informational purposes only. While we make every effort to keep the content accurate and up to date, we do not guarantee its completeness, reliability, or suitability for any specific purpose.
           </p>
 
           <p>
-            Yono All Games is not responsible for any losses or damages resulting from reliance on the information presented. All decisions based on the content of this website are made at your own risk.
+            Free Yono Rummy is not liable for any loss or damage that may arise from using the information on this website. All decisions made based on our content are at your own risk.
           </p>
 
           <p>
-            We do not provide legal, financial, or professional advice of any kind. You should consult with certified professionals before taking any action based on the materials or content presented on this site.
+            We do not provide any legal, financial, or professional advice. Please consult qualified professionals before making any decisions related to real-money gaming or financial matters.
           </p>
 
           <p>
-            External links or references to third-party applications, websites, or content are included for convenience. Yono All Games does not control or endorse such third-party sites and is not responsible for their content, practices, or availability.
+            Links to external websites or third-party apps are provided for convenience only. Free Yono Rummy does not control, endorse, or take responsibility for the content, privacy policies, or practices of any external platforms.
           </p>
 
           <p>
-            We strive to keep the website operational and its information accurate. However, we do not guarantee uninterrupted access or error-free content. Technical issues, outages, or content inaccuracies may occur without notice.
+            We work hard to keep the site running smoothly and the information current. However, we cannot guarantee uninterrupted access or completely error-free content at all times.
           </p>
 
           <p>
-            Yono All Games and its team shall not be held liable for any direct, indirect, incidental, or consequential damages resulting from the use or misuse of this website or its services.
+            Free Yono Rummy and its team shall not be held responsible for any direct, indirect, incidental, or consequential damages resulting from the use or inability to use this website.
           </p>
 
           <p>
-            All content, including app listings, brand names, and blog content, belongs to their respective owners. Any resemblance to other platforms or misuse is purely coincidental or unintentional.
+            All app names, logos, and trademarks belong to their respective owners. Any similarity to other platforms is coincidental and unintentional.
           </p>
 
           <p>
-            We reserve the right to update or change this Disclaimer at any time. Continued use of the site after updates implies your acceptance of the revised terms. Please revisit this page periodically for the latest version.
+            We reserve the right to modify or update this Disclaimer at any time without prior notice. Your continued use of the website after any changes means you accept the updated terms. Please check this page regularly for the latest version.
           </p>
 
           <p>
-            If you have any questions or concerns regarding this Disclaimer, feel free to reach out to us:
+            If you have any questions or concerns about this Disclaimer, feel free to contact us.
           </p>
         </div>
       </div>

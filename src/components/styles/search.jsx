@@ -15,16 +15,15 @@ export function fuzzyMatch(query, text) {
 
 const PLACEHOLDER_WORDS = [
   "Search yono game apps...",
-  "Teen Patti Master...",
+  "All yono yono apps...",
+  "Search All yono Games apps...",
   "Joy Rummy...",
   "Yono Rummy...",
-  "Jaiho 777...",
-  "Jaiho 91...",
-  "Yono VIP...",
+  "Jaiho 777..."
 ];
 
 const SearchIcon = () => (
-  <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+  <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
     <circle cx="11" cy="11" r="8" />
     <path d="M21 21l-4.35-4.35" />
   </svg>
@@ -104,7 +103,7 @@ export default function SearchBar({ value, onChange, placeholder }) {
 
   return (
     <div className="relative mb-3">
-      <span className="absolute left-3.5 top-1/2 -translate-y-1/2 text-gray-400 pointer-events-none">
+      <span className={`absolute left-3.5 top-1/2 -translate-y-1/2 pointer-events-none transition-colors duration-200 ${isFocused ? "text-green-700" : "text-gray-400"}`}>
         <SearchIcon />
       </span>
 
@@ -116,11 +115,11 @@ export default function SearchBar({ value, onChange, placeholder }) {
         onBlur={() => setIsFocused(false)}
         placeholder={isFocused ? "Search yono game apps..." : ""}
         aria-label="Search yono game apps"
-        className="w-full bg-white border border-gray-300 rounded-[12px] pl-9 pr-9 py-2.5 text-sm text-gray-900 placeholder-gray-500 outline-none focus:border-green-700 transition-colors duration-150"
+        className="w-full bg-white border border-gray-200 rounded-[14px] pl-10 pr-10 py-2.5 text-sm text-gray-900 placeholder-gray-500 outline-none shadow-sm hover:border-gray-300 focus:border-green-600 focus:shadow-[0_0_0_3px_rgba(21,128,61,0.12)] focus:bg-white transition-all duration-200 ease-out"
       />
 
       {!value && !isFocused && (
-        <span className="absolute left-9 top-1/2 -translate-y-1/2 text-sm text-gray-500 pointer-events-none whitespace-nowrap overflow-hidden text-ellipsis max-w-[calc(100%-3.5rem)] flex items-center">
+        <span className="absolute left-10 top-1/2 -translate-y-1/2 text-sm text-gray-500 pointer-events-none whitespace-nowrap overflow-hidden text-ellipsis max-w-[calc(100%-4rem)] flex items-center">
           {typed}
           <span className="inline-block w-[1px] h-[17px] bg-gray-400 ml-[1px] animate-[blink_1.1s_step-end_infinite]" />
         </span>
@@ -129,7 +128,7 @@ export default function SearchBar({ value, onChange, placeholder }) {
       {value && (
         <button
           onClick={() => onChange("")}
-          className="absolute right-3 top-1/2 -translate-y-1/2 text-gray-400 cursor-pointer bg-transparent border-none p-0"
+          className="absolute right-3 top-1/2 -translate-y-1/2 text-gray-400 hover:text-gray-700 hover:bg-gray-100 cursor-pointer bg-transparent border-none p-1 rounded-full transition-colors duration-150"
         >
           <ClearIcon />
         </button>

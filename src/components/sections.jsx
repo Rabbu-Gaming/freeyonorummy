@@ -4,8 +4,8 @@ import { useState, useRef, useEffect } from "react";
 
 const FAQS = [
     {
-        q: "What is Yono All Games and what apps does it list?",
-        a: "Yono All Games is an independent directory and review platform covering Yono-branded Android gaming apps available in India. We list and compare yono apps, yono bonus apps, rummy apps, and yono games across categories including Rummy, Slots, Spin games, 777-style arcade titles, Bingo, and VIP platforms. Our goal is to give Indian players clear, accurate information so they can choose the right yono apps confidently without wading through promotional content.",
+        q: "What is Free Yono Rummy and what apps does it list?",
+        a: "Free Yono Rummy is an independent directory and review platform covering Yono-branded Android gaming apps available in India. We list and compare yono apps, yono bonus apps, rummy apps, and yono games across categories including Rummy, Slots, Spin games, 777-style arcade titles, Bingo, and VIP platforms. Our goal is to give Indian players clear, accurate information so they can choose the right yono apps confidently without wading through promotional content.",
     },
     {
         q: "Are Yono games available on the Google Play Store?",
@@ -20,15 +20,15 @@ const FAQS = [
         a: "The minimum withdrawal threshold across most Yono apps listed here starts at ₹100, with some premium apps setting it slightly higher. Withdrawals are typically processed via UPI, PhonePe, Paytm, or Google Pay. The exact limit for each app is shown in the table below and on each app's individual page.",
     },
     {
-        q: "How does Yono All Games decide which apps to list?",
-        a: "Every app listed on Yono All Games is evaluated on gameplay variety, sign-up bonus transparency, withdrawal reliability, user interface quality, and responsible gaming disclosures. We do not accept payment for placements. Listings reflect independent research and real player experience for yono bonus apps, rummy apps, and yono games.",
+        q: "How does Free Yono Rummy decide which apps to list?",
+        a: "Every app listed on Free Yono Rummy is evaluated on gameplay variety, sign-up bonus transparency, withdrawal reliability, user interface quality, and responsible gaming disclosures. We do not accept payment for placements. Listings reflect independent research and real player experience for yono bonus apps, rummy apps, and yono games.",
     },
     {
         q: "Is it safe to download Yono gaming APKs?",
         a: "Skill-based real-money games carry inherent financial risk. We recommend using only the sign-up bonus before depositing real money, setting a personal spending limit each session, and never chasing losses. These apps are strictly for adults aged 18 and above. If gaming is becoming compulsive please reach out to a responsible gaming helpline.",
     },
     {
-        q: "How often is the Yono All Games directory updated?",
+        q: "How often is the Free Yono Rummy directory updated?",
         a: "We refresh listings on a rolling basis as new Yono-branded apps launch or existing versions update. Bonus figures, withdrawal limits, and download links are re-checked regularly so the information on each app page stays current rather than stale.",
     },
 ];
@@ -146,7 +146,7 @@ export default function Sections() {
                 <div className="w-full max-w-[900px]">
                     <a href="https://yonostore.app/" className="inline-flex items-center gap-2 text-[11px] font-bold tracking-[0.2em] uppercase text-green-700 bg-green-50 border border-green-200 rounded-full px-3 py-1.5 no-underline mb-4">
                         <SparkIcon />
-                        Yono All Games
+                        Free Yono Rummy
                     </a>
 
                     <h2 id="about-heading" className="text-[26px] sm:text-[32px] font-extrabold text-gray-900 leading-tight tracking-tight mb-3 max-w-[700px]">
@@ -154,7 +154,7 @@ export default function Sections() {
                     </h2>
 
                     <p className="text-[13px] sm:text-[14px] text-gray-600 leading-relaxed mb-2 max-w-[680px]">
-                        Yono All Games independently tracks Yono-branded Android gaming apps so you don&apos;t have to dig through scattered promo pages. Every listing carries a verified download link, an honest bonus breakdown, and real withdrawal timelines for yono apps, yono bonus apps, rummy apps, and yono games alike.
+                        Free Yono Rummy independently tracks Yono-branded Android gaming apps so you don&apos;t have to dig through scattered promo pages. Every listing carries a verified download link, an honest bonus breakdown, and real withdrawal timelines for yono apps, yono bonus apps, rummy apps, and yono games alike.
                     </p>
                     <p className="text-[13px] sm:text-[14px] text-gray-600 leading-relaxed mb-6 max-w-[680px]">
                         As the Yono ecosystem grew through 2026, dozens of near-identical APKs flooded the space. Our editorial team filters that noise: each app here is checked for gameplay quality, payout honesty, and responsible gaming disclosures before it earns a place in the directory.
@@ -214,7 +214,7 @@ export default function Sections() {
                                 Responsible Gaming Notice
                             </strong>
                             <p className="text-[12px] text-amber-900 leading-relaxed">
-                                Yono All Games is an information and review platform only. We do not operate any gaming app, handle payments, or accept deposits or withdrawals, and we never encourage adding real money to play. If gaming ever feels compulsive or financially stressful, please pause and reach out to a responsible gaming helpline.
+                                Free Yono Rummy is an information and review platform only. We do not operate any gaming app, handle payments, or accept deposits or withdrawals, and we never encourage adding real money to play. If gaming ever feels compulsive or financially stressful, please pause and reach out to a responsible gaming helpline.
                             </p>
                         </div>
                     </div>

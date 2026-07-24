@@ -47,7 +47,7 @@ export default function DisclaimerPage() {
             </span>
             <div className="text-[12px] text-gray-600 leading-relaxed space-y-3">
               <p>
-                Yono All Games acts purely as an information source and holds no responsibility for how the listed apps function. Rummy can become habit-forming and carries genuine financial risk, so please play with caution. This platform is reserved strictly for users aged <span className="text-green-700 font-semibold">18 and above</span>.
+                Free Yono Rummy acts purely as an information source and holds no responsibility for how the listed apps function. Rummy can become habit-forming and carries genuine financial risk, so please play with caution. This platform is reserved strictly for users aged <span className="text-green-700 font-semibold">18 and above</span>.
               </p>
               <p>
                 For complete details, review our full <a href="/disclaimer" className="text-green-700 font-semibold underline hover:text-green-800">Disclaimer</a> page along with the individual disclaimer published on every app listing.

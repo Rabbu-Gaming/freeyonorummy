@@ -1,7 +1,7 @@
 'use client';
 import { useState, useEffect } from "react";
 import Link from "next/link";
-import { FaHome, FaInfoCircle, FaExclamationCircle, FaShieldAlt, FaTelegramPlane, FaChevronDown } from "react-icons/fa";
+import { FaHome, FaInfoCircle, FaExclamationCircle, FaShieldAlt, FaTelegramPlane } from "react-icons/fa";
 
 const Navbar = () => {
   const [isOpen, setIsOpen] = useState(false);
@@ -20,9 +20,6 @@ const Navbar = () => {
     { href: "/privacy", label: "Privacy", icon: FaShieldAlt },
   ];
 
-  const mainLinks = links.slice(0, 3);
-  const legalLinks = links.slice(3);
-
   return (
     <nav className="fixed top-0 left-0 w-full z-[1250] bg-gradient-to-r from-emerald-700 via-teal-700 to-emerald-700 shadow-md">
       <div className="max-w-[60rem] mx-auto px-6 lg:px-8">
@@ -40,13 +37,13 @@ const Navbar = () => {
               />
             </span>
             <span className="font-bold text-base leading-none tracking-tight whitespace-nowrap text-white">
-              Yono All Games
+              Free Yono Rummy
             </span>
           </Link>
 
           <div className="hidden md:flex items-center justify-center flex-1">
             <ul className="flex items-center gap-1">
-              {mainLinks.map((link, i) => (
+              {links.map((link, i) => (
                 <li key={i}>
                   <Link
                     href={link.href}
@@ -56,29 +53,6 @@ const Navbar = () => {
                   </Link>
                 </li>
               ))}
-
-              <li className="relative group">
-                <button
-                  className="flex items-center gap-1 px-3 py-1.5 text-sm font-medium text-white/90 hover:text-white hover:bg-white/10 rounded-xl transition-all duration-200"
-                >
-                  More
-                  <FaChevronDown className="w-3 h-3 group-hover:rotate-180 transition-transform duration-200" />
-                </button>
-
-                <div className="absolute left-1/2 -translate-x-1/2 top-full pt-2 opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-200 z-50">
-                  <div className="bg-white rounded-2xl shadow-xl border border-slate-100 py-2 w-52">
-                    {legalLinks.map((link, i) => (
-                      <Link
-                        key={i}
-                        href={link.href}
-                        className="block px-6 py-3 text-sm font-medium text-slate-700 hover:bg-slate-50 hover:text-slate-900 transition-colors duration-200"
-                      >
-                        {link.label}
-                      </Link>
-                    ))}
-                  </div>
-                </div>
-              </li>
             </ul>
           </div>
 

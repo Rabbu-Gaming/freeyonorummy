@@ -32,14 +32,14 @@ export default function Footer() {
               <div className="flex items-center gap-1.5">
                 <img
                   src="https://img.yonoallgames.app/logo/yono-all-games.webp"
-                  alt="Yono All Games Logo"
+                  alt="Free Yono Rummy"
                   width={30}
                   height={30}
                   loading="lazy"
                   className="object-contain"
                 />
                 <span className="text-[17px] font-extrabold tracking-wide text-gray-900">
-                  Yono<span className="text-green-700">All</span><span className="text-blue-700">Games</span>
+                  Free<span className="text-green-700">Yono</span><span className="text-blue-700">Rummy</span>
                 </span>
               </div>
               <span className="inline-flex items-center gap-1.5 text-[10px] font-bold tracking-[0.18em] uppercase text-green-700 bg-green-50 border border-green-200 rounded-full px-2.5 py-1 mt-1">
@@ -49,7 +49,7 @@ export default function Footer() {
             </div>
 
             <p className="text-[12px] text-gray-600 text-center leading-relaxed max-w-[340px]">
-              <a href="https://yonostore.app" className="text-green-700 font-semibold no-underline">Yono All Games</a> curates reliable Teen Patti, Rummy & Slots apps, each backed by genuine bonus offers so you can play on Android with confidence.
+              Free Yono Rummy curates reliable Teen Patti, Rummy & Slots apps, each backed by genuine bonus offers so you can play on Android with confidence.
             </p>
 
             <div className="flex flex-wrap justify-center gap-2">
@@ -69,7 +69,7 @@ export default function Footer() {
       </div>
 
       <p className="text-[11px] text-gray-500 text-center py-6">
-        © 2026 Yono All Games. All rights reserved.
+        © 2026 Free Yono Rummy. All rights reserved.
       </p>
 
     </footer>

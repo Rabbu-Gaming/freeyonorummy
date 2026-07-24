@@ -3,9 +3,9 @@ import Navbar from "../components/Navbar";
 import Footer from "../components/footer";
 
 export const metadata = {
-  title: "Yono All Games – Rummy, Slots & Bonus Reward Apps",
+  title: "Free Yono Rummy – Rummy, Slots & Bonus Reward Apps",
   description:
-    "Explore Yono All Games – your directory for Yono apps, Rummy, Slots & Bonus rewards. Find all Yono games with reviews, ratings & download links.",
+    "Explore Free Yono Rummy – your directory for Free Yono apps, Rummy, Slots & Bonus rewards. Find all Free Yono games with reviews, ratings & download links.",
   icons: {
     icon: [
       {
@@ -22,11 +22,11 @@ export const metadata = {
     apple: "https://img.yonoallgames.app/logo/yono-all-games.webp"
   },
   openGraph: {
-    title: "Yono All Games – Rummy, Slots & Bonus Reward Apps",
+    title: "Free Yono Rummy – Rummy, Slots & Bonus Reward Apps",
     description:
-      "Explore Yono All Games – your directory for Yono apps, Rummy, Slots & Bonus rewards. Find all Yono games with reviews, ratings & download links.",
-    url: "https://yonoallgames.app",
-    siteName: "Yono All Games",
+      "Explore Free Yono Rummy – your directory for Free Yono apps, Rummy, Slots & Bonus rewards. Find all Free Yono games with reviews, ratings & download links.",
+    url: "https://freeyonorummy.com",
+    siteName: "Free Yono Rummy",
     images: [
       {
         url: "https://img.yonoallgames.app/logo/yono-all-games.webp",
@@ -40,13 +40,13 @@ export const metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Yono All Games – Rummy, Slots & Bonus Reward Apps",
+    title: "Free Yono Rummy – Rummy, Slots & Bonus Reward Apps",
     description:
-      "Explore Yono All Games – your directory for Yono apps, Rummy, Slots & Bonus rewards. Find all Yono games with reviews, ratings & download links.",
+      "Explore Free Yono Rummy – your directory for Free Yono apps, Rummy, Slots & Bonus rewards. Find all Free Yono games with reviews, ratings & download links.",
     images: ["https://img.yonoallgames.app/logo/yono-all-games.webp"],
     site: "@yonoallgames"
   },
-  metadataBase: new URL("https://yonoallgames.app")
+  metadataBase: new URL("https://freeyonorummy.com")
 };
 
 export const viewport = {

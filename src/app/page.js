@@ -3,9 +3,9 @@ import Disclaimer from "../components/disclaimer";
 import Sections from "../components/sections";
 
 export const metadata = {
-  title: "Yono All Games – Rummy, Slots & Bonus Reward Apps",
+  title: "Free Yono Rummy – Rummy, Slots & Bonus Reward Apps",
   description:
-    "Explore Yono All Games – your directory for Yono apps, Rummy, Slots & Bonus rewards. Find all Yono games with reviews, ratings & download links.",
+    "Explore Free Yono Rummy – your trusted directory for Yono apps, Rummy, Slots & Bonus rewards. Find all Yono games with reviews, ratings & safe download links.",
   robots: {
     index: true,
     follow: true,
@@ -16,20 +16,20 @@ export const metadata = {
     },
   },
   alternates: {
-    canonical: "https://yonoallgames.app",
+    canonical: "https://freeyonorummy.com",
   },
   openGraph: {
-    title: "Yono All Games – Rummy, Slots & Bonus Reward Apps",
+    title: "Free Yono Rummy – Rummy, Slots & Bonus Reward Apps",
     description:
-      "Explore Yono All Games – your directory for Yono apps, Rummy, Slots & Bonus rewards. Find all Yono games with reviews, ratings & download links.",
-    url: "https://yonoallgames.app",
-    siteName: "Yono All Games",
+      "Explore Free Yono Rummy – your trusted directory for Yono apps, Rummy, Slots & Bonus rewards. Find all Yono games with reviews, ratings & safe download links.",
+    url: "https://freeyonorummy.com",
+    siteName: "Free Yono Rummy",
     images: [
       {
         url: "https://img.yonoallgames.app/logo/yono-all-games.webp",
         width: 1200,
         height: 630,
-        alt: "Yono All Games – Rummy, Slots & Bonus Apps",
+        alt: "Free Yono Rummy – Rummy, Slots & Bonus Apps",
       },
     ],
     locale: "en_IN",
@@ -44,11 +44,11 @@ export const metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Yono All Games – Rummy, Slots & Bonus Reward Apps",
+    title: "Free Yono Rummy – Rummy, Slots & Bonus Reward Apps",
     description:
-      "Explore Yono All Games – your directory for Yono apps, Rummy, Slots & Bonus rewards. Find all Yono games with reviews, ratings & download links.",
+      "Explore Free Yono Rummy – your trusted directory for Yono apps, Rummy, Slots & Bonus rewards. Find all Yono games with reviews, ratings & safe download links.",
     images: ["https://img.yonoallgames.app/logo/yono-all-games.webp"],
-    site: "@yonoallgames",
+    site: "@yono_store",
   },
 };
 
@@ -71,11 +71,11 @@ export default function HomePage() {
             __html: JSON.stringify({
               "@context": "https://schema.org",
               "@type": "WebSite",
-              name: "Yono All Games",
-              url: "https://yonoallgames.app",
+              name: "Free Yono Rummy",
+              url: "https://freeyonorummy.com",
               publisher: {
                 "@type": "Organization",
-                name: "Yono All Games",
+                name: "Free Yono Rummy",
                 logo: {
                   "@type": "ImageObject",
                   url: "https://img.yonoallgames.app/logo/yono-all-games.webp"
@@ -91,21 +91,21 @@ export default function HomePage() {
             __html: JSON.stringify({
               "@context": "https://schema.org",
               "@type": "SoftwareApplication",
-              name: "Yono All Games",
+              name: "Free Yono Rummy",
               applicationCategory: "GameApplication",
               operatingSystem: "Android",
               description:
-                "Explore Yono All Games – your directory for Yono apps, Rummy, Slots & Bonus rewards. Find all Yono games with reviews, ratings & download links.",
+                "Explore Free Yono Rummy – your trusted directory for Yono apps, Rummy, Slots & Bonus rewards. Find all Yono games with reviews, ratings & safe download links.",
               featureList: [
                 "Verified Gaming Apps",
                 "Trusted App Reviews",
                 "Bonus & Reward Updates",
                 "App Safety Checker"
               ],
-              url: "https://yonoallgames.app",
+              url: "https://freeyonorummy.com",
               publisher: {
                 "@type": "Organization",
-                name: "Yono All Games"
+                name: "Free Yono Rummy"
               }
             })
           }}

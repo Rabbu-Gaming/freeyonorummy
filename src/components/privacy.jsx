@@ -9,168 +9,108 @@ export default function PrivacyPolicy() {
         </h2>
 
         <p className="text-sm text-gray-600 font-semibold text-center -mt-4 mb-2">
-          Last updated: June 29, 2026
+          Last updated: July 25, 2026
         </p>
 
         <div className="space-y-6 text-gray-800 text-[15px] leading-relaxed font-medium text-left">
           <p>
-            This Privacy Policy outlines how{" "}
+            This Privacy Policy explains how{" "}
             <a
-              href="https://yonoallgames.app/"
+              href="https://freeyonorummy.com/"
               className="text-blue-600 underline"
             >
-              Yono All Games
+              Free Yono Rummy
             </a>{" "}
-            collects, handles, protects, and uses your personal information when
-            you access our platform or engage with our services. By continuing
-            to use our site or installing any app listed on our store, you
-            acknowledge and agree to the terms described here.
+            collects, uses, protects, and manages your personal information when you visit our website or use our services. By using our platform, you agree to the practices described in this policy.
           </p>
 
           <p>
-            We define personal data broadly, including your name, email
-            address, IP address, device information, and any data that may
-            directly or indirectly identify you. This information is used to
-            provide a smoother, more secure, and more customized experience for
-            each user. We also gather general browsing and usage metrics to
-            evaluate how our services are being used and to enhance them over
-            time.
+            We consider personal data to include information such as your name, email address, IP address, device details, and any other data that can identify you. This information helps us deliver a better, safer, and more personalized experience. We also collect general usage data to understand how our site is used and to make improvements.
           </p>
 
-          <p>Common technical terms we use include:</p>
+          <p>Key terms used in this policy include:</p>
           <ul className="list-disc ml-5 mt-2 space-y-1">
             <li>
-              <strong>Account</strong>: A personal user profile on our platform.
+              <strong>Account</strong>: Your personal profile on our platform.
             </li>
             <li>
-              <strong>Cookies</strong>: Small files stored in your browser to
-              save settings and preferences.
+              <strong>Cookies</strong>: Small files stored on your device to remember preferences and settings.
             </li>
             <li>
-              <strong>Device</strong>: Any hardware used to access our platform,
-              such as mobile phones, tablets, or PCs.
+              <strong>Device</strong>: Any device (mobile, tablet, or computer) used to access our services.
             </li>
             <li>
-              <strong>Usage Data</strong>: Anonymous metrics like session
-              duration, button clicks, or search terms.
+              <strong>Usage Data</strong>: Anonymous information like visit duration, searches, and interactions.
             </li>
             <li>
-              <strong>Financial Data</strong>: Data related to referral programs
-              or in-app transactions, where applicable.
+              <strong>Financial Data</strong>: Limited data related to referrals or promotions, if applicable.
             </li>
           </ul>
 
           <p>
-            We collect data either directly when you provide it (e.g., through
-            email signups or form submissions), or automatically when you
-            browse our site. This includes device model, OS version, IP address,
-            browser type, and engagement activity like search terms and time on
-            page.
+            We collect information either directly from you (such as when you contact us or subscribe) or automatically through your browsing activity, including device type, operating system, IP address, and pages visited.
           </p>
 
           <p>
-            We do not use your data for intrusive advertising or unsolicited
-            promotions. All information is used strictly to improve our
-            recommendations, optimize user experience, support performance
-            analytics, and enforce platform safety.
+            Your data is used only to improve our recommendations, enhance user experience, perform analytics, and maintain platform security. We do not use it for intrusive advertising or unrelated promotional purposes.
           </p>
 
           <p>
-            We use cookies to enhance functionality — like remembering filters,
-            language preferences, or saving recently visited app listings. Our
-            cookies are lightweight and do not collect sensitive data. You can
-            disable cookies in your browser, although some features may stop
-            working as expected.
+            We use cookies to remember your preferences, such as selected filters and language settings. These cookies are minimal and do not collect sensitive information. You can manage or disable cookies through your browser settings at any time.
           </p>
 
           <p>
-            We do not share personal information with advertisers or unrelated
-            third parties. Data may be shared with trusted service providers who
-            help us manage analytics, emails, or hosting. All partners are bound
-            by confidentiality agreements.
+            We do not sell or share your personal information with advertisers or unrelated third parties. Data may be shared only with trusted service providers for hosting, analytics, or technical support, all of whom are bound by strict confidentiality agreements.
           </p>
 
           <p>
-            In cases like contests, early app access, or affiliate bonuses, we
-            may request minimal personal verification. This is to ensure
-            fairness, prevent fraud, and comply with platform integrity
-            standards. We never ask for financial information unless redirected
-            to a verified app.
+            In special cases such as contests, bonus offers, or verification processes, we may ask for limited personal details to ensure fairness and prevent abuse. We never request sensitive financial information directly on our platform.
           </p>
 
           <p>
-            Yono All Games does not store or process payment data. Any financial
-            transaction is conducted within the third-party gaming app you
-            choose. We strongly encourage users to verify any app through our
-            App Checker before installing or transacting.
+            Free Yono Rummy does not handle or store any payment information. All financial transactions happen directly within the third-party apps you choose to download. We strongly recommend using our App Checker tool before installing any app.
           </p>
 
           <p>
-            We believe in responsible gaming. Our platform exclusively promotes
-            skill-based games. We actively discourage excessive gameplay and
-            recommend regular breaks, balance, and digital well-being. Users
-            must be 18 years or older to use our platform.
+            We are committed to promoting responsible gaming. Our platform focuses on skill-based games and encourages users to play responsibly, take regular breaks, and maintain a healthy balance. You must be 18 years or older to use our services.
           </p>
 
           <p>
-            Retention of user data is minimal. We only store activity logs and
-            technical data as long as necessary for legal compliance, abuse
-            prevention, and service optimization. Where possible, we anonymize
-            records to protect user identity.
+            We retain your data only for as long as necessary for legal compliance, security, and service improvement. Where possible, we anonymize data to further protect your privacy.
           </p>
 
           <p>
-            We use industry-standard security practices to safeguard your data.
-            This includes encrypted transmission (HTTPS), firewalls, controlled
-            access, and regular security audits. While no platform is immune to
-            threats, we continuously work to improve our defense.
+            We implement industry-standard security measures including HTTPS encryption, secure servers, and regular audits to protect your information. However, no system is completely risk-free.
           </p>
 
           <p>
-            If we discover that a minor has submitted personal data, we
-            immediately remove the records. This platform is intended only for
-            legal adults, and we maintain a strict policy against underage
-            participation.
+            We do not knowingly collect data from individuals under 18 years of age. If we become aware of such data, we will delete it immediately.
           </p>
 
           <p>
-            Some apps listed on our platform may redirect you to external
-            websites. These external links have their own privacy policies, and
-            we are not responsible for their content, terms, or practices.
-            Please review their policies before proceeding.
+            Links to external websites or apps may appear on our platform. These third-party sites have their own privacy policies, and we are not responsible for their content or practices.
           </p>
 
           <p>
-            You have the right to access, update, or delete your personal data
-            held by us. Simply contact our support team at{" "}
+            You have the right to access, correct, or request deletion of your personal data. To make such a request, please contact us at{" "}
             <a
-              href="mailto:yonoallgames.app@gmail.com"
+              href="mailto:freeyonorummy@gmail.com"
               className="text-blue-600 underline"
             >
-              yonoallgames.app@gmail.com
-            </a>{" "}
-            and your request will be processed in compliance with Indian data
-            protection laws.
+              freeyonorummy@gmail.com
+            </a>.
           </p>
 
           <p>
-            We may update this Privacy Policy from time to time. Updates will be
-            posted here, and major changes may also be communicated through a
-            site banner. Your continued use of the platform signifies acceptance
-            of the latest version.
+            We may update this Privacy Policy occasionally. Any changes will be posted on this page, and significant updates may be highlighted. Continued use of our website after changes indicates your acceptance of the revised policy.
           </p>
 
           <p>
-            We occasionally work with international service providers for
-            hosting, analytics, or support. In such cases, user data may be
-            processed outside of India. We ensure all such providers meet strict
-            privacy and data security obligations.
+            Some of our service providers may be located outside India. In such cases, we ensure they follow appropriate data protection standards.
           </p>
 
           <p>
-            If required by law, regulation, or judicial process, we may share
-            minimal user data with government or law enforcement agencies in
-            accordance with applicable legal obligations.
+            We may disclose limited user data if required by law, court order, or government authority in accordance with applicable regulations.
           </p>
 
         </div>

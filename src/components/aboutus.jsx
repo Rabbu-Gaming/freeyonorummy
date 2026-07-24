@@ -12,48 +12,48 @@ export default function AboutUs() {
           About Us
         </h2>
         <p className="text-sm text-gray-600 font-semibold text-center -mt-4 mb-2">
-          Last updated: June 16, 2025
+          Last updated: July 25, 2026
         </p>
 
         <div className="space-y-6 text-gray-800 text-[15px] leading-relaxed font-medium text-left">
           <p>
-            <a href="https://yonoallstores.com/" className="text-blue-600 underline">Yono All Store</a> is a purpose-built platform tailored for Indian gamers seeking trustworthy, skill-based mobile game apps. In a digital world saturated with misleading APKs and unregulated platforms, we stand for safety, clarity, and verified discovery. From Rummy to trivia, spin-to-win games, and more, every app listed has been thoroughly reviewed to ensure a clean, legal, and enjoyable experience for players across India.
+            Free Yono Rummy is a dedicated platform designed for Indian players who want reliable and safe access to skill-based mobile gaming apps. In an online space full of unverified APKs and confusing promotions, we focus on delivering clarity, safety, and genuine app discovery.
           </p>
 
           <p>
-            Our platform serves both casual users looking for fun, low-storage games and serious players interested in high-bonus, skill-focused titles. With an intuitive layout and a commitment to real transparency, Yono All Store provides a mobile-first experience with curated app recommendations, bonus comparisons, gameplay videos, and helpful tools like the App Checker — a one-click solution to instantly verify the legitimacy of any gaming app.
+            Whether you're a casual gamer looking for light entertainment or a serious player chasing big bonuses, Free Yono Rummy offers a clean and transparent experience. Our easy-to-use platform features carefully selected apps with honest bonus details, real user feedback, and verified download links.
           </p>
 
           <p>
-            Our long-term vision is to simplify game discovery across all regions of India. That means recommending apps suited for different languages, internet speeds, and gaming habits. Whether you're in a metro city or a rural area, our listings are lightweight, region-aware, and optimized for fast installation. We’re not just a listing page — we’re building a trust layer for India’s growing mobile gaming economy.
+            We aim to make game discovery simple and trustworthy across every corner of India. Our listings are optimized for all types of users — from big cities to small towns — with attention to app size, performance, and regional preferences.
           </p>
 
           <p>
-            Safety has always been our core. Each app goes through a strict screening process before making it onto our site. We examine permissions, background behavior, past reviews, app size, and version history. The goal is to eliminate risk for users by filtering out potentially harmful or shady applications. Through our App Checker tool, users can also self-verify any app with confidence before downloading.
+            User safety remains our top priority. Every app is carefully screened for security, performance, and legitimacy before being listed. We also provide tools to help users verify apps themselves, reducing the risk of downloading questionable files.
           </p>
 
           <p>
-            Yono All Store also believes in educating the player. Our blogs cover topics ranging from "How to Spot Fake Game Apps" to strategy guides for improving your gameplay. We explain legal frameworks in simple language, help users avoid risky platforms, and offer honest reviews of the most popular apps. Whether you’re a beginner or seasoned player, our content is crafted to support smarter decisions.
+            Beyond listings, we believe in educating players. Our blog covers useful topics like spotting fake apps, understanding gaming laws, and improving gameplay strategies. We break down complex rules in simple terms so every player can make informed choices.
           </p>
 
           <p>
-            Our growth has been community-powered. What started as a simple directory of Rummy games has now evolved into a full-scale gaming ecosystem. We actively engage with users on Telegram, Discord, and through blog feedback to identify which games are performing best, what new features players want, and how to further streamline the discovery experience. Suggestions are welcomed, and user voices shape our product roadmap.
+            What began as a small directory has grown into a complete gaming resource, shaped by feedback from our community. We actively listen to players through social channels and use their input to improve our recommendations and add new features.
           </p>
 
           <p>
-            With new features like app trust scores, regional filters, and push alerts for bonus drops, Yono All Store is scaling quickly. Our commitment remains: to be India's most reliable gateway to safe, enjoyable, and skill-based gaming. As laws evolve and mobile habits shift, we promise to stay updated, compliant, and transparent—always putting users first.
+            Free Yono Rummy continues to evolve with features like trust ratings, bonus alerts, and smart filters. Our promise is simple: to remain India’s most dependable source for safe, enjoyable, and transparent mobile gaming.
           </p>
 
           <p>
-            Our featured categories include Teen Patti games, spin-based apps with daily bonuses, card-based strategy games, and fun quiz apps with real rewards. We list bonus values upfront and sort apps by trust score, size, and popularity—so users know what they’re getting before tapping download. No bait-and-switch. No misguiding ads. Just verified apps and clear choices.
+            We cover popular categories including Teen Patti, Rummy, Slots, Spin & Win games, and more. All apps are presented with clear bonus information, withdrawal details, and trust indicators so you can decide with confidence.
           </p>
 
           <p>
-            We also provide a Progressive Web App (PWA) experience, allowing users to install Yono All Store directly on their phone’s home screen. No app store needed. This speeds up browsing, saves bandwidth, and makes it easier to revisit and recheck for app updates and new drops.
+            You can also install our Progressive Web App (PWA) for quick access directly from your home screen — no app store required. This makes browsing faster and lets you stay updated with the latest verified apps and offers.
           </p>
 
           <p>
-            Have a suggestion, found a bug, or want to recommend a game? We’re always open to feedback. Our mission grows stronger when users contribute. Help us improve by sharing your ideas, your experience, and your voice. You can also subscribe to our updates and blog for the latest in verified gaming news.
+            Got feedback, spotted an issue, or want to suggest a new app? We welcome your input. Your suggestions help us grow and serve the community better. Feel free to reach out anytime.
           </p>
 
         </div>

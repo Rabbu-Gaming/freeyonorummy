@@ -13,7 +13,7 @@ function formatCurrency(val) {
   return s.startsWith("₹") ? s : `₹${s}`;
 }
 
-function isUpcoming(app) {
+function isUpcoming(app) { 
   return app.upcoming === "yes";
 }
 
@@ -34,10 +34,10 @@ export default function Home() {
         <div className="relative w-full max-w-[900px]">
           <div className="text-center mb-5">
             <h1 className="text-[22px] sm:text-[28px] font-extrabold text-white leading-tight mb-2 tracking-tight">
-              Yono All Games App
+              All Verified Yono Games Apps
             </h1>
             <p className="text-[12.5px] sm:text-[13.5px] text-emerald-50 font-normal max-w-[260px] mx-auto leading-relaxed">
-              Download top Yono Games apps with bonus rewards. Safe & verified for 2026.
+              Download trusted Yono Games apps with instant signup bonus and easy withdrawals. 100% Safe for 2026.
             </p>
           </div>
 
