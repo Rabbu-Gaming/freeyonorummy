@@ -1,0 +1,11 @@
+node_modules
+.next
+.vscode
+*.zip
+*.rar
+*.mp4
+*.mov
+*.exe
+.DS_Store
+Thumbs.db
+desktop.ini
