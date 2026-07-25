@@ -73,21 +73,12 @@ export async function generateMetadata({ params }) {
     keywords: app.tags || [],
     robots: "index, follow",
     openGraph: {
-      title: `${app.title} – Yono All Games`,
-      description: app.description || "",
-      images: [app.image],
-      url: `https://yonoallgames.app/${slug}`,
-      siteName: "Yono All Games",
-      type: "website",
-    },
-    twitter: {
-      card: "summary_large_image",
-      title: `${app.title} – Yono All Games`,
+      title: `${app.title} – Yono Rummy Home`,
       description: app.description || "",
       images: [app.image],
     },
     alternates: {
-      canonical: `https://yonoallgames.app/${slug}`,
+      canonical: `https://yonorummyhome.com/${slug}`,
     },
   };
 }

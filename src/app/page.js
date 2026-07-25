@@ -16,13 +16,13 @@ export const metadata = {
     },
   },
   alternates: {
-    canonical: "https://freeyonorummy.com",
+    canonical: "https://yonorummyhome.com",
   },
   openGraph: {
     title: "Free Yono Rummy – Rummy, Slots & Bonus Reward Apps",
     description:
       "Explore Free Yono Rummy – your trusted directory for Yono apps, Rummy, Slots & Bonus rewards. Find all Yono games with reviews, ratings & safe download links.",
-    url: "https://freeyonorummy.com",
+    url: "https://yonorummyhome.com",
     siteName: "Free Yono Rummy",
     images: [
       {
@@ -72,7 +72,7 @@ export default function HomePage() {
               "@context": "https://schema.org",
               "@type": "WebSite",
               name: "Free Yono Rummy",
-              url: "https://freeyonorummy.com",
+              url: "https://yonorummyhome.com",
               publisher: {
                 "@type": "Organization",
                 name: "Free Yono Rummy",
@@ -95,17 +95,17 @@ export default function HomePage() {
               applicationCategory: "GameApplication",
               operatingSystem: "Android",
               description:
-                "Explore Free Yono Rummy – your trusted directory for Yono apps, Rummy, Slots & Bonus rewards. Find all Yono games with reviews, ratings & safe download links.",
+                "Explore Yono Rummy Home– your trusted directory for Yono apps, Rummy, Slots & Bonus rewards. Find all Yono games with reviews, ratings & safe download links.",
               featureList: [
                 "Verified Gaming Apps",
                 "Trusted App Reviews",
                 "Bonus & Reward Updates",
                 "App Safety Checker"
               ],
-              url: "https://freeyonorummy.com",
+              url: "https://yonorummyhome.com",
               publisher: {
                 "@type": "Organization",
-                name: "Free Yono Rummy"
+                name: "Yono Rummy Home"
               }
             })
           }}

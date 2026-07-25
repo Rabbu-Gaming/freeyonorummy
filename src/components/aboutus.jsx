@@ -17,11 +17,11 @@ export default function AboutUs() {
 
         <div className="space-y-6 text-gray-800 text-[15px] leading-relaxed font-medium text-left">
           <p>
-            Free Yono Rummy is a dedicated platform designed for Indian players who want reliable and safe access to skill-based mobile gaming apps. In an online space full of unverified APKs and confusing promotions, we focus on delivering clarity, safety, and genuine app discovery.
+            Yono Rummy Home is a dedicated platform designed for Indian players who want reliable and safe access to skill-based mobile gaming apps. In an online space full of unverified APKs and confusing promotions, we focus on delivering clarity, safety, and genuine app discovery.
           </p>
 
           <p>
-            Whether you're a casual gamer looking for light entertainment or a serious player chasing big bonuses, Free Yono Rummy offers a clean and transparent experience. Our easy-to-use platform features carefully selected apps with honest bonus details, real user feedback, and verified download links.
+            Whether you're a casual gamer looking for light entertainment or a serious player chasing big bonuses, Yono Rummy Home offers a clean and transparent experience. Our easy-to-use platform features carefully selected apps with honest bonus details, real user feedback, and verified download links.
           </p>
 
           <p>

@@ -42,7 +42,7 @@ export default function Footer() {
                   className="object-contain"
                 />
                 <span className="text-[17px] font-extrabold tracking-wide text-gray-900">
-                  Free<span className="text-green-700">Yono</span><span className="text-blue-700">Rummy</span>
+                  Yono<span className="text-green-700">Rummy</span><span className="text-blue-700">Home</span>
                 </span>
               </div>
               <span className="inline-flex items-center gap-1.5 text-[10px] font-bold tracking-[0.18em] uppercase text-green-700 bg-green-50 border border-green-200 rounded-full px-2.5 py-1 mt-1">
@@ -52,7 +52,7 @@ export default function Footer() {
             </div>
 
             <p className="text-[12px] text-gray-600 text-center leading-relaxed max-w-[340px]">
-              Free Yono Rummy curates reliable Teen Patti, Rummy & Slots apps, each backed by genuine bonus offers so you can play on Android with confidence.
+              Yono Rummy Home curates reliable Teen Patti, Rummy & Slots apps, each backed by genuine bonus offers so you can play on Android with confidence.
             </p>
 
             <div className="flex flex-wrap justify-center gap-2">

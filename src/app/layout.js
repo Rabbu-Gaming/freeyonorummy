@@ -25,7 +25,7 @@ export const metadata = {
     title: "Free Yono Rummy – Rummy, Slots & Bonus Reward Apps",
     description:
       "Explore Free Yono Rummy – your directory for Free Yono apps, Rummy, Slots & Bonus rewards. Find all Free Yono games with reviews, ratings & download links.",
-    url: "https://freeyonorummy.com",
+    url: "https://yonorummyhome.com/",
     siteName: "Free Yono Rummy",
     images: [
       {
@@ -46,7 +46,7 @@ export const metadata = {
     images: ["https://img.yonoallgames.app/logo/yono-all-games.webp"],
     site: "@yonoallgames"
   },
-  metadataBase: new URL("https://freeyonorummy.com")
+  metadataBase: new URL("https://yonorummyhome.com/")
 };
 
 export const viewport = {

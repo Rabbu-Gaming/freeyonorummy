@@ -19,13 +19,13 @@ export default function Disclaimer() {
               href="https://freeyonorummy.com/"
               className="text-blue-600 underline"
             >
-              Free Yono Rummy
+              Yono Rummy Home
             </a>{" "}
             is for general informational purposes only. While we make every effort to keep the content accurate and up to date, we do not guarantee its completeness, reliability, or suitability for any specific purpose.
           </p>
 
           <p>
-            Free Yono Rummy is not liable for any loss or damage that may arise from using the information on this website. All decisions made based on our content are at your own risk.
+            Yono Rummy Home is not liable for any loss or damage that may arise from using the information on this website. All decisions made based on our content are at your own risk.
           </p>
 
           <p>
@@ -33,7 +33,7 @@ export default function Disclaimer() {
           </p>
 
           <p>
-            Links to external websites or third-party apps are provided for convenience only. Free Yono Rummy does not control, endorse, or take responsibility for the content, privacy policies, or practices of any external platforms.
+            Links to external websites or third-party apps are provided for convenience only. Yono Rummy Home does not control, endorse, or take responsibility for the content, privacy policies, or practices of any external platforms.
           </p>
 
           <p>
@@ -41,7 +41,7 @@ export default function Disclaimer() {
           </p>
 
           <p>
-            Free Yono Rummy and its team shall not be held responsible for any direct, indirect, incidental, or consequential damages resulting from the use or inability to use this website.
+            Yono Rummy Home and its team shall not be held responsible for any direct, indirect, incidental, or consequential damages resulting from the use or inability to use this website.
           </p>
 
           <p>

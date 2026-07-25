@@ -13,13 +13,13 @@ export const metadata = {
     "Yono Rummy Policy",
   ],
   alternates: {
-    canonical: "https://yonoallgames.app/privacy",
+    canonical: "https://yonorummyhome.com/privacy",
   },
   openGraph: {
     title: "Yono All Games Privacy Policy - Secure Gaming in India",
     description:
       "Understand how Yono All Games handles your data and protects user privacy while offering top real cash games like Yono Rummy and Spin Gold.",
-    url: "https://yonoallgames.app/privacy",
+    url: "https://yonorummyhome.com/privacy",
     type: "website",
     images: [
       {
@@ -38,13 +38,13 @@ export const metadata = {
     "script:ld+json": JSON.stringify({
       "@context": "https://schema.org",
       "@type": "WebPage",
-      name: "Yono All Games Privacy Policy",
-      url: "https://yonoallgames.app/privacy",
+      name: "Yono Rummy Home Privacy Policy",
+      url: "https://yonorummyhome.com/privacy",
       description:
-        "Read the privacy policy of Yono All Games, India’s trusted real money gaming platform offering apps like Yono Rummy, Spin Gold, and more.",
+        "Read the privacy policy of Yono Rummy Home, India’s trusted real money gaming platform offering apps like Yono Rummy, Spin Gold, and more.",
       publisher: {
         "@type": "Organization",
-        name: "Yono All Games",
+        name: "Yono Rummy Home",
         logo: {
           "@type": "ImageObject",
           url: "https://img.yonoallgames.app/logo/yono-all-games.webp",

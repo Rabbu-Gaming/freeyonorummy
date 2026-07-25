@@ -13,13 +13,13 @@ export const metadata = {
     "User Agreement",
   ],
   alternates: {
-    canonical: "https://yonoallgames.app/terms",
+    canonical: "https://yonorummyhome.com/terms",
   },
   openGraph: {
     title: "Yono All Games Terms & Conditions - Know Your Rights",
     description:
       "Learn the rules and policies for using Yono All Games, including access to Yono Rummy and other real-money games.",
-    url: "https://yonoallgames.app/terms",
+    url: "https://yonorummyhome.com/terms",
     type: "website",
     images: [
       {
@@ -38,13 +38,13 @@ export const metadata = {
     "script:ld+json": JSON.stringify({
       "@context": "https://schema.org",
       "@type": "WebPage",
-      name: "Yono All Games Terms and Conditions",
-      url: "https://yonoallgames.app/terms",
+      name: "Yono Rummy Home Terms and Conditions",
+      url: "https://yonorummyhome.com/terms",
       description:
-        "Read the terms and conditions for using Yono All Games — India’s trusted source for real-money games including Yono Rummy, MBM Bet, and Spin Gold.",
+        "Read the terms and conditions for using Yono Rummy Home — India’s trusted source for real-money games including Yono Rummy, MBM Bet, and Spin Gold.",
       publisher: {
         "@type": "Organization",
-        name: "Yono All Games",
+        name: "Yono Rummy Home",
         logo: {
           "@type": "ImageObject",
           url: "https://img.yonoallgames.app/logo/yono-all-games.webp",

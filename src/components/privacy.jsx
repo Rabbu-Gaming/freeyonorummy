@@ -19,7 +19,7 @@ export default function PrivacyPolicy() {
               href="https://freeyonorummy.com/"
               className="text-blue-600 underline"
             >
-              Free Yono Rummy
+              Yono Rummy Home
             </a>{" "}
             collects, uses, protects, and manages your personal information when you visit our website or use our services. By using our platform, you agree to the practices described in this policy.
           </p>
@@ -68,7 +68,7 @@ export default function PrivacyPolicy() {
           </p>
 
           <p>
-            Free Yono Rummy does not handle or store any payment information. All financial transactions happen directly within the third-party apps you choose to download. We strongly recommend using our App Checker tool before installing any app.
+            Yono Rummy Home does not handle or store any payment information. All financial transactions happen directly within the third-party apps you choose to download. We strongly recommend using our App Checker tool before installing any app.
           </p>
 
           <p>
@@ -94,10 +94,10 @@ export default function PrivacyPolicy() {
           <p>
             You have the right to access, correct, or request deletion of your personal data. To make such a request, please contact us at{" "}
             <a
-              href="mailto:freeyonorummy@gmail.com"
+              href="mailto:yonorummyhome@gmail.com"
               className="text-blue-600 underline"
             >
-              freeyonorummy@gmail.com
+              yonorummyhome@gmail.com
             </a>.
           </p>
 

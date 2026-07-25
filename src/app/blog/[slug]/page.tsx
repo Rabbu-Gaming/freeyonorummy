@@ -411,11 +411,11 @@ export default async function BlogPostPage({ params }: Props) {
             dateModified: data.date,
             image: data.coverImage,
             description: data.description,
-            url: `https://yonoallgames.app/blog/${slug}`,
+            url: `https://yonorummyhome.com/blog/${slug}`,
             publisher: {
               "@type": "Organization",
-              name: "Yono All Games",
-              logo: { "@type": "ImageObject", url: "https://img.yonoallgames.app/logo/yono-all-games.webp" },
+              name: "Yono Rummy Home",
+              logo: { "@type": "ImageObject", url: "https://img.yonoallgames.app/logo/yono-rummy-home.webp" },
             },
           }),
         }}
@@ -463,7 +463,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { slug } = await params;
   const blog = await readBlogBySlug(slug);
   if (!blog) {
-    return { title: "Blog – Yono All Games", description: "Yono All Games blog" };
+    return { title: "Blog – Yono Rummy Home", description: "Yono Rummy Home blog" };
   }
 
   const { title, description, coverImage, tags, date } = blog.data;
@@ -479,8 +479,8 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     openGraph: {
       title: `${title} | Yono All Games Blog`,
       description: description || "Read trusted guides, tips, and updates on Yono All Games.",
-      url: `https://yonoallgames.app/blog/${slug}`,
-      siteName: "Yono All Games",
+      url: `https://yonorummyhome.com/blog/${slug}`,
+      siteName: "Yono Rummy Home",
       images: coverImage ? [{ url: coverImage, width: 1200, height: 630, alt: title }] : undefined,
       type: "article",
       locale: "en_IN",
@@ -488,12 +488,12 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     },
     twitter: {
       card: "summary_large_image",
-      title: `${title} | Yono All Games Blog`,
-      description: description || "Read trusted guides, tips, and updates on Yono All Games.",
+      title: `${title} | Yono Rummy Home Blog`,
+      description: description || "Read trusted guides, tips, and updates on Yono Rummy Home.",
       images: coverImage ? [coverImage] : undefined,
     },
     alternates: {
-      canonical: `https://yonoallgames.app/blog/${slug}`,
+      canonical: `https://yonorummyhome.com/blog/${slug}`,
     },
   };
 }
