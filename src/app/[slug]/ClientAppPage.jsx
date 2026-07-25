@@ -55,11 +55,11 @@ export default function ClientAppPage({ appData }) {
     .map((word) => word.charAt(0).toUpperCase() + word.slice(1))
     .join(" ");
   const stars = parseFloat(rating) || 0;
-  const telegramWebUrl = "https://t.me/newyonogameshub";
+  const telegramWebUrl = "https://t.me/+wsvobC6WazRiOWVl";
+
   const openTelegram = (e) => {
     e.preventDefault();
-    window.location.href = "tg://resolve?domain=newyonogameshub";
-    timerRef.current = setTimeout(() => (window.location.href = telegramWebUrl), 500);
+    window.location.href = telegramWebUrl;
   };
   const structuredData = {
     "@context": "https://schema.org",

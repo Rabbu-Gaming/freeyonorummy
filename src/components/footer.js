@@ -12,6 +12,7 @@ const LINKS = [
   { href: "/", label: "Home" },
   { href: "/category/all-yono-games", label: "All Yono Games" },
   { href: "/category/new-yono-apps", label: "New Yono Apps" },
+  { href: "/blog", label: "Blogs" },
   { href: "/about", label: "About" },
   { href: "/disclaimer", label: "Disclaimer" },
   { href: "/privacy", label: "Privacy Policy" },
