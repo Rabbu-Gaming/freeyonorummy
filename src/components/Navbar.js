@@ -16,7 +16,6 @@ const Navbar = () => {
     { href: "/", label: "Home", icon: FaHome },
     { href: "/about", label: "About", icon: FaInfoCircle },
     { href: "/disclaimer", label: "Disclaimer", icon: FaExclamationCircle },
-    { href: "/contact", label: "Contact", icon: FaInfoCircle },
     { href: "/privacy", label: "Privacy", icon: FaShieldAlt },
   ];
 

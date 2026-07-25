@@ -1,0 +1,95 @@
+import ClientPage from "../../../components/styles/clientpage";
+import appsData from "../../../data/apps.json";
+
+const siteUrl = "https://freeyonorummy.com";
+const pageUrl = `${siteUrl}/category/new-yono-apps`;
+
+const pageH1 = "New Yono Games Apps";
+const pageSubText =
+  "Explore the newest Yono Games apps with instant signup bonus and easy withdrawals. 100% Safe for 2026.";
+const pageH2 = "New Yono Apps";
+
+const newApps = appsData.filter((app) => app.new === "yes");
+
+export const metadata = {
+  title: "New Yono Games Apps | Latest Launches 2026",
+  description:
+    "Discover the latest new Yono Games apps with instant signup bonus and easy withdrawals. Compare bonuses, minimum withdrawal limits, and download safely.",
+  alternates: {
+    canonical: pageUrl,
+  },
+  openGraph: {
+    title: "New Yono Games Apps | Latest Launches 2026",
+    description:
+      "Discover the latest new Yono Games apps with instant signup bonus and easy withdrawals. Compare bonuses, minimum withdrawal limits, and download safely.",
+    url: pageUrl,
+    siteName: "Yono All Games",
+    type: "website",
+    images: [
+      {
+        url: `${siteUrl}/og-image.jpg`,
+        width: 1200,
+        height: 630,
+        alt: "New Yono Games Apps",
+      },
+    ],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "New Yono Games Apps | Latest Launches 2026",
+    description:
+      "Discover the latest new Yono Games apps with instant signup bonus and easy withdrawals. Compare bonuses, minimum withdrawal limits, and download safely.",
+    images: [`${siteUrl}/og-image.jpg`],
+  },
+};
+
+export default function Page() {
+  const itemListSchema = {
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    name: "New Yono Games Apps",
+    description:
+      "A verified list of newly launched Yono Games apps for Indian real-money gaming with signup bonus and withdrawal details.",
+    url: pageUrl,
+    numberOfItems: newApps.length,
+    itemListElement: newApps.map((app, index) => ({
+      "@type": "ListItem",
+      position: index + 1,
+      url: `${siteUrl}/${app.slug}`,
+      name: app.name,
+    })),
+  };
+
+  const breadcrumbSchema = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    itemListElement: [
+      {
+        "@type": "ListItem",
+        position: 1,
+        name: "Home",
+        item: siteUrl,
+      },
+      {
+        "@type": "ListItem",
+        position: 2,
+        name: "New Yono Games Apps",
+        item: pageUrl,
+      },
+    ],
+  };
+
+  return (
+    <>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(itemListSchema) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
+      />
+      <ClientPage h1={pageH1} subText={pageSubText} h2={pageH2} apps={newApps} current="new" />
+    </>
+  );
+}

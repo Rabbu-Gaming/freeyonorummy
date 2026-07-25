@@ -28,7 +28,7 @@ export default function Home() {
 
   return (
     <>
-      <section className="relative w-full bg-gradient-to-r from-emerald-700 via-teal-700 to-emerald-700 px-3 pt-6 sm:pt-8 pb-6 flex justify-center overflow-hidden">
+      <section className="relative w-full bg-gradient-to-r from-emerald-700 via-teal-700 to-emerald-700 px-3 pt-6 sm:pt-8 pb-6 flex flex-col items-center overflow-hidden">
         <div className="absolute -right-10 -top-16 w-44 h-44 rounded-full bg-white/10"></div>
         <div className="absolute -left-12 -bottom-16 w-36 h-36 rounded-full bg-white/10"></div>
         <div className="relative w-full max-w-[900px]">
@@ -39,6 +39,20 @@ export default function Home() {
             <p className="text-[12.5px] sm:text-[13.5px] text-emerald-50 font-normal max-w-[260px] mx-auto leading-relaxed">
               Download trusted Yono Games apps with instant signup bonus and easy withdrawals. 100% Safe for 2026.
             </p>
+            <div className="flex items-center justify-center gap-2 mt-3">
+              <Link
+                href="/category/all-yono-games"
+                className="px-3 py-1.5 rounded-full bg-white/15 border border-white/25 text-[10.5px] font-bold text-white backdrop-blur-sm no-underline"
+              >
+                All Yono Apps
+              </Link>
+              <Link
+                href="/category/new-yono-apps"
+                className="px-3 py-1.5 rounded-full bg-white/15 border border-white/25 text-[10.5px] font-bold text-white backdrop-blur-sm no-underline"
+              >
+                New Yono Apps
+              </Link>
+            </div>
           </div>
 
           <div className="flex items-end justify-center gap-2 sm:gap-6">
@@ -111,10 +125,7 @@ export default function Home() {
             })}
           </div>
         </div>
-      </section>
-
-      <section className="w-full bg-gradient-to-r from-emerald-700 via-teal-700 to-emerald-700 px-4 pt-4 pb-6 flex justify-center">
-        <div className="w-full max-w-[900px]">
+        <div className="relative w-full max-w-[900px] px-1 mt-5">
           <SearchBar value={query} onChange={setQuery} />
         </div>
       </section>

@@ -13,6 +13,8 @@ export async function GET() {
 
   const staticRoutes = [
     { slug: "", priority: 1.0, changefreq: "daily" },
+    { slug: "category/all-yono-games", priority: 0.9, changefreq: "daily" },
+    { slug: "category/new-yono-apps", priority: 0.9, changefreq: "daily" },
     { slug: "about", priority: 0.7, changefreq: "monthly" },
     { slug: "privacy", priority: 0.6, changefreq: "yearly" },
     { slug: "terms", priority: 0.6, changefreq: "yearly" },
@@ -37,8 +39,7 @@ export async function GET() {
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 ${allUrls.map(u => `
   <url>
-    <loc>${escape(u.loc)}</loc>${
-      u.lastmod ? `\n    <lastmod>${u.lastmod}</lastmod>` : ""
+    <loc>${escape(u.loc)}</loc>${u.lastmod ? `\n    <lastmod>${u.lastmod}</lastmod>` : ""
     }
     <changefreq>${u.changefreq}</changefreq>
     <priority>${u.priority}</priority>
