@@ -2,6 +2,7 @@
 
 import { useState } from "react";
 import Link from "next/link";
+import Image from "next/image";
 import appsData from "../data/apps.json";
 import SearchBar, { fuzzyMatch } from "../components/styles/search";
 import { CloudDownloadIcon } from "../components/styles/icons";
@@ -58,6 +59,7 @@ export default function Home() {
           <div className="flex items-end justify-center gap-2 sm:gap-6">
             {featuredApps.map((app, idx) => {
               const isCenter = idx === 1;
+              const isPriority = idx === 0 || isCenter;
               return (
                 <Link
                   key={app.slug}
@@ -75,13 +77,13 @@ export default function Home() {
                       isCenter ? "w-[60px] h-[60px] sm:w-[72px] sm:h-[72px]" : "w-[46px] h-[46px] sm:w-[56px] sm:h-[56px]",
                     ].join(" ")}
                   >
-                    <img
+                    <Image
                       src={app.image}
                       alt={app.name}
                       width={isCenter ? 72 : 56}
                       height={isCenter ? 72 : 56}
-                      loading={idx === 0 ? "eager" : "lazy"}
-                      fetchPriority={idx === 0 ? "high" : "auto"}
+                      priority={isPriority}
+                      loading={isPriority ? "eager" : "lazy"}
                       className="w-full h-full object-contain"
                     />
                   </div>
@@ -150,7 +152,7 @@ export default function Home() {
                   href={`/${app.slug}`}
                   className="flex flex-col items-center text-center px-2 py-3 bg-white rounded-2xl border border-gray-200 shadow-sm no-underline"
                 >
-                  <img
+                  <Image
                     src={app.image}
                     alt={app.name}
                     width={52}

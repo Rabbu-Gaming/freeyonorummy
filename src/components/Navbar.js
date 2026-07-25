@@ -1,23 +1,60 @@
 'use client';
 import { useState, useEffect } from "react";
 import Link from "next/link";
-import { FaHome, FaInfoCircle, FaExclamationCircle, FaShieldAlt, FaTelegramPlane } from "react-icons/fa";
+
+const links = [
+  {
+    href: "/",
+    label: "Home",
+    icon: (
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="w-5 h-5">
+        <path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z" />
+        <path d="M9 22V12h6v10" />
+      </svg>
+    ),
+  },
+  {
+    href: "/about",
+    label: "About",
+    icon: (
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="w-5 h-5">
+        <circle cx="12" cy="12" r="10" />
+        <line x1="12" y1="16" x2="12" y2="12" />
+        <line x1="12" y1="8" x2="12.01" y2="8" />
+      </svg>
+    ),
+  },
+  {
+    href: "/disclaimer",
+    label: "Disclaimer",
+    icon: (
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="w-5 h-5">
+        <circle cx="12" cy="12" r="10" />
+        <line x1="12" y1="8" x2="12" y2="12" />
+        <line x1="12" y1="16" x2="12.01" y2="16" />
+      </svg>
+    ),
+  },
+  {
+    href: "/privacy",
+    label: "Privacy",
+    icon: (
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="w-5 h-5">
+        <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z" />
+      </svg>
+    ),
+  },
+];
 
 const Navbar = () => {
   const [isOpen, setIsOpen] = useState(false);
 
   useEffect(() => {
-    if (typeof document !== "undefined") {
-      document.body.style.overflow = isOpen ? "hidden" : "auto";
-    }
+    document.body.style.overflow = isOpen ? "hidden" : "auto";
+    return () => {
+      document.body.style.overflow = "auto";
+    };
   }, [isOpen]);
-
-  const links = [
-    { href: "/", label: "Home", icon: FaHome },
-    { href: "/about", label: "About", icon: FaInfoCircle },
-    { href: "/disclaimer", label: "Disclaimer", icon: FaExclamationCircle },
-    { href: "/privacy", label: "Privacy", icon: FaShieldAlt },
-  ];
 
   return (
     <nav className="fixed top-0 left-0 w-full z-[1250] bg-gradient-to-r from-emerald-700 via-teal-700 to-emerald-700 shadow-md">
@@ -62,7 +99,9 @@ const Navbar = () => {
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 bg-white/10 hover:bg-white/20 border border-white/30 px-4 py-1.5 rounded-full text-white text-sm font-semibold transition-all duration-200"
             >
-              <FaTelegramPlane className="text-base" />
+              <svg viewBox="0 0 24 24" fill="currentColor" className="w-4 h-4">
+                <path d="M21.05 2.927a1.5 1.5 0 0 0-1.523-.255L2.6 9.24a1.35 1.35 0 0 0 .098 2.54l4.35 1.4 1.68 5.4a1.2 1.2 0 0 0 1.96.51l2.42-2.17 4.29 3.17a1.35 1.35 0 0 0 2.14-.82l3.03-14.3a1.5 1.5 0 0 0-.46-1.443zM9.6 13.9l-1.02 4.02-1.02-3.9 10.5-7.02z" />
+              </svg>
               <span className="leading-none">Join</span>
             </a>
 
@@ -92,7 +131,7 @@ const Navbar = () => {
                 className="group flex items-center gap-4 py-4 px-5 hover:bg-white/10 rounded-2xl transition-all text-white"
               >
                 <span className="flex items-center justify-center w-9 h-9 bg-white/20 text-white rounded-2xl group-hover:bg-white/30 transition-colors">
-                  <link.icon className="w-5 h-5" />
+                  {link.icon}
                 </span>
                 <span className="text-[15px] font-medium">{link.label}</span>
               </Link>

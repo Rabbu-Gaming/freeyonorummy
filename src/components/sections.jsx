@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useRef, useEffect } from "react";
+import { useState, useRef, useEffect, useLayoutEffect } from "react";
 
 const FAQS = [
     {
@@ -93,12 +93,33 @@ function PlusMinusIcon({ open }) {
 function FAQItem({ item, index, isOpen, onToggle }) {
     const bodyRef = useRef(null);
     const [height, setHeight] = useState(0);
+    const skipTransition = useRef(true);
 
-    useEffect(() => {
+    useLayoutEffect(() => {
         if (bodyRef.current) {
             setHeight(bodyRef.current.scrollHeight);
         }
-    }, [item.a]);
+    }, [item.a, isOpen]);
+
+    useEffect(() => {
+        const el = bodyRef.current;
+        if (!el || typeof ResizeObserver === "undefined") return;
+        const observer = new ResizeObserver(() => {
+            setHeight(el.scrollHeight);
+        });
+        observer.observe(el);
+        return () => observer.disconnect();
+    }, []);
+
+    useEffect(() => {
+        const id = requestAnimationFrame(() => {
+            skipTransition.current = false;
+        });
+        return () => cancelAnimationFrame(id);
+    }, []);
+
+    const buttonId = `faq-button-${index}`;
+    const panelId = `faq-panel-${index}`;
 
     return (
         <div
@@ -108,22 +129,27 @@ function FAQItem({ item, index, isOpen, onToggle }) {
             itemType="https://schema.org/Question"
         >
             <button
+                id={buttonId}
                 onClick={onToggle}
                 aria-expanded={isOpen}
+                aria-controls={panelId}
                 className="w-full flex items-start justify-between gap-3 px-4 py-3.5 text-left focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-green-700 focus-visible:ring-offset-1 rounded-[10px]"
             >
                 <span className="text-[13px] font-bold text-gray-900 leading-snug" itemProp="name">
                     {String(index + 1).padStart(2, "0")}. {item.q}
                 </span>
-                <span className={`shrink-0 mt-0.5 transition-colors duration-200 ${isOpen ? "text-green-700" : "text-gray-400"}`}>
+                <span className={`shrink-0 mt-0.5 transition-colors duration-200 ${isOpen ? "text-green-700" : "text-gray-500"}`}>
                     <PlusMinusIcon open={isOpen} />
                 </span>
             </button>
             <div
+                id={panelId}
+                role="region"
+                aria-labelledby={buttonId}
                 style={{
                     height: isOpen ? height : 0,
                     overflow: "hidden",
-                    transition: "height 0.28s cubic-bezier(0.4,0,0.2,1)",
+                    transition: skipTransition.current ? "none" : "height 0.28s cubic-bezier(0.4,0,0.2,1)",
                 }}
                 aria-hidden={!isOpen}
             >
