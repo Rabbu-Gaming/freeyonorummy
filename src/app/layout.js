@@ -9,30 +9,30 @@ export const metadata = {
   icons: {
     icon: [
       {
-        url: "https://img.yonoallgames.app/logo/yono-all-games.webp",
+        url: "https://img.yonostore.app/logo/free-yono-rummy.webp",
         sizes: "32x32",
         type: "image/webp"
       },
       {
-        url: "https://img.yonoallgames.app/logo/yono-all-games.webp",
+        url: "https://img.yonostore.app/logo/free-yono-rummy.webp",
         sizes: "192x192",
         type: "image/webp"
       }
     ],
-    apple: "https://img.yonoallgames.app/logo/yono-all-games.webp"
+    apple: "https://img.yonostore.app/logo/free-yono-rummy.webp"
   },
   openGraph: {
     title: "Free Yono Rummy – Rummy, Slots & Bonus Reward Apps",
     description:
       "Explore Free Yono Rummy – your directory for Free Yono apps, Rummy, Slots & Bonus rewards. Find all Free Yono games with reviews, ratings & download links.",
-    url: "https://yonorummyhome.com/",
+    url: "https://freeyonorummy.com/",
     siteName: "Free Yono Rummy",
     images: [
       {
-        url: "https://img.yonoallgames.app/logo/yono-all-games.webp",
+        url: "https://img.yonostore.app/logo/free-yono-rummy.webp",
         width: 1200,
         height: 630,
-        alt: "Yono All Games Game Banner"
+        alt: "Free Yono Rummy Game Logo"
       }
     ],
     locale: "en_IN",
@@ -43,10 +43,10 @@ export const metadata = {
     title: "Free Yono Rummy – Rummy, Slots & Bonus Reward Apps",
     description:
       "Explore Free Yono Rummy – your directory for Free Yono apps, Rummy, Slots & Bonus rewards. Find all Free Yono games with reviews, ratings & download links.",
-    images: ["https://img.yonoallgames.app/logo/yono-all-games.webp"],
-    site: "@yonoallgames"
+    images: ["https://img.yonostore.app/logo/free-yono-rummy.webp"],
+    site: "@freeyonorummy"
   },
-  metadataBase: new URL("https://yonorummyhome.com/")
+  metadataBase: new URL("https://freeyonorummy.com/")
 };
 
 export const viewport = {

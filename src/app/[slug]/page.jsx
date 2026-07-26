@@ -73,12 +73,12 @@ export async function generateMetadata({ params }) {
     keywords: app.tags || [],
     robots: "index, follow",
     openGraph: {
-      title: `${app.title} – Yono Rummy Home`,
+      title: `${app.title} – Free Yono Rummy`,
       description: app.description || "",
       images: [app.image],
     },
     alternates: {
-      canonical: `https://yonorummyhome.com/${slug}`,
+      canonical: `https://freeyonorummy.com/${slug}`,
     },
   };
 }

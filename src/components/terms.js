@@ -14,11 +14,11 @@ export default function TermsAndConditions() {
 
         <div className="space-y-6 text-gray-800 text-[15px] leading-relaxed font-medium text-left">
           <p>
-            By using <a href="https://yonorummyhome.com/" className="text-blue-600 underline">Yono Rummy Home</a>, you agree to these Terms and Conditions. If you do not agree with any part of these terms, please stop using the platform immediately. These terms apply to the entire website, its services, and all related features.
+            By using <a href="https://freeyonorummy.com/" className="text-blue-600 underline">Free Yono Rummy</a>, you agree to these Terms and Conditions. If you do not agree with any part of these terms, please stop using the platform immediately. These terms apply to the entire website, its services, and all related features.
           </p>
 
           <p>
-            All content, design, logos, and materials on this platform are owned or properly licensed by Yono Rummy Home. Copying, modifying, distributing, or using any part of the site without prior written permission is strictly prohibited.
+            All content, design, logos, and materials on this platform are owned or properly licensed by Free Yono Rummy. Copying, modifying, distributing, or using any part of the site without prior written permission is strictly prohibited.
           </p>
 
           <p>
@@ -26,11 +26,11 @@ export default function TermsAndConditions() {
           </p>
 
           <p>
-            Yono Rummy Home is intended only for discovering and downloading verified skill-based gaming apps. Any form of automated data scraping, reverse engineering, spamming, or disruptive activity is strictly forbidden and may lead to immediate account suspension or legal action.
+            Free Yono Rummy is intended only for discovering and downloading verified skill-based gaming apps. Any form of automated data scraping, reverse engineering, spamming, or disruptive activity is strictly forbidden and may lead to immediate account suspension or legal action.
           </p>
 
           <p>
-            We provide links and information about third-party gaming apps. Each app operates under its own terms and conditions. Yono Rummy Home does not host, distribute, or control these external applications. Any transactions or in-app purchases occur directly between you and the third-party app.
+            We provide links and information about third-party gaming apps. Each app operates under its own terms and conditions. Free Yono Rummy does not host, distribute, or control these external applications. Any transactions or in-app purchases occur directly between you and the third-party app.
           </p>
 
           <p>
@@ -42,7 +42,7 @@ export default function TermsAndConditions() {
           </p>
 
           <p>
-            Our platform may contain affiliate links or sponsored content. Any interaction with advertisers or third parties is solely between you and them. Yono Rummy Home is not responsible for any disputes, transactions, or issues that arise from such interactions.
+            Our platform may contain affiliate links or sponsored content. Any interaction with advertisers or third parties is solely between you and them. Free Yono Rummy is not responsible for any disputes, transactions, or issues that arise from such interactions.
           </p>
 
           <p>
@@ -54,7 +54,7 @@ export default function TermsAndConditions() {
           </p>
 
           <p>
-            By using Yono Rummy Home, you agree to indemnify and hold us harmless from any claims, losses, or damages arising from your use of the platform, violation of these terms, or any actions taken through third-party links.
+            By using Free Yono Rummy, you agree to indemnify and hold us harmless from any claims, losses, or damages arising from your use of the platform, violation of these terms, or any actions taken through third-party links.
           </p>
 
           <p>
@@ -66,7 +66,7 @@ export default function TermsAndConditions() {
           </p>
 
           <p>
-            These Terms represent the complete agreement between you and Yono Rummy Home regarding your use of the platform and replace any previous agreements or understandings.
+            These Terms represent the complete agreement between you and Free Yono Rummy regarding your use of the platform and replace any previous agreements or understandings.
           </p>
 
           <p>

@@ -1,7 +1,7 @@
 import ClientPage from "../../../components/styles/clientpage";
 import appsData from "../../../data/apps.json";
 
-const siteUrl = "https://yonorummyhome.com/";
+const siteUrl = "https://freeyonorummy.com/";
 const pageUrl = `${siteUrl}/category/all-yono-games`;
 
 const pageH1 = "All Yono Games";

@@ -5,7 +5,9 @@
     "image": "https://img.yonoallgames.app/apps/jaiho-777.webp",
     "signupBonus": "₹77",
     "minWithdraw": "₹100",
-    "new": "yes"
+    "new": "yes",
+    "size": "49.85",
+    "version": "1.2.1"
   },
   {
     "slug": "dhan-game",
@@ -13,6 +15,7 @@
     "image": "https://img.yonostore.app/apps/dhan-game.png",
     "signupBonus": "₹777",
     "minWithdraw": "₹100",
+    "new": "yes",
     "size": "47.23",
     "version": "1.0.0"
   },
@@ -21,412 +24,543 @@
     "name": "Max Rummy",
     "image": "https://img.yonoallgames.app/apps/max-rummy.png",
     "signupBonus": "₹60",
-    "minWithdraw": "₹100"
+    "minWithdraw": "₹100",
+    "new": "yes",
+    "size": "51.40",
+    "version": "1.1.3"
   },
   {
     "slug": "joy-rummy",
     "name": "Joy Rummy",
     "image": "https://img.yonoallgames.app/apps/joy-rummy.png",
     "signupBonus": "₹88",
-    "minWithdraw": "₹100"
+    "minWithdraw": "₹100",
+    "new": "yes",
+    "size": "48.67",
+    "version": "2.0.1"
   },
   {
     "slug": "jaiho-91",
     "name": "Jaiho 91",
     "image": "https://img.yonoallgames.app/apps/jaiho-91.png",
     "signupBonus": "₹60",
-    "minWithdraw": "₹100"
+    "minWithdraw": "₹100",
+    "new": "yes",
+    "size": "52.15",
+    "version": "1.0.5"
   },
   {
     "slug": "spin-gold",
     "name": "Spin Gold",
     "image": "https://img.yonoallgames.app/apps/spin-gold.png",
     "signupBonus": "₹60",
-    "minWithdraw": "₹100"
+    "minWithdraw": "₹100",
+    "size": "50.28",
+    "version": "1.3.0"
   },
   {
     "slug": "bingo-101",
     "name": "Bingo 101",
     "image": "https://img.yonoallgames.app/apps/bingo-101.png",
     "signupBonus": "₹74",
-    "minWithdraw": "₹100"
+    "minWithdraw": "₹100",
+    "size": "47.90",
+    "version": "1.1.0"
   },
   {
     "slug": "slot-winner",
     "name": "Slot Winner",
     "image": "https://img.yonoallgames.app/apps/slot-winner.png",
     "signupBonus": "₹60",
-    "minWithdraw": "₹100"
+    "minWithdraw": "₹100",
+    "size": "53.72",
+    "version": "2.1.2"
   },
   {
     "slug": "yono-vip",
     "name": "Yono Vip",
     "image": "https://img.yonoallgames.app/apps/yono-vip.png",
     "signupBonus": "₹50",
-    "minWithdraw": "₹100"
+    "minWithdraw": "₹100",
+    "size": "49.11",
+    "version": "1.0.8"
   },
   {
     "slug": "yono-rummy",
     "name": "Yono Rummy",
     "image": "https://img.yonoallgames.app/apps/yono-rummy.webp",
     "signupBonus": "₹74",
-    "minWithdraw": "₹100"
+    "minWithdraw": "₹100",
+    "size": "51.96",
+    "version": "1.4.0"
   },
   {
     "slug": "rummy-888",
     "name": "Rummy 888",
     "image": "https://img.yonoallgames.app/apps/rummy-888.png",
     "signupBonus": "₹55",
-    "minWithdraw": "₹100"
+    "minWithdraw": "₹100",
+    "new": "yes",
+    "size": "48.33",
+    "version": "1.2.4"
   },
   {
     "slug": "yes-spin",
     "name": "Yes Spin",
     "image": "https://img.yonoallgames.app/apps/yes-spin.png",
     "signupBonus": "₹68",
-    "minWithdraw": "₹100"
+    "minWithdraw": "₹100",
+    "new": "yes",
+    "size": "54.05",
+    "version": "1.0.2"
   },
   {
     "slug": "game-rummy",
     "name": "Game Rummy",
     "image": "https://img.yonoallgames.app/apps/game-rummy.png",
     "signupBonus": "₹199",
-    "minWithdraw": "₹100"
+    "minWithdraw": "₹100",
+    "new": "yes",
+    "size": "50.79",
+    "version": "2.0.3"
   },
   {
     "slug": "inr-rummy",
     "name": "INR Rummy",
     "image": "https://img.yonoallgames.app/apps/inr-rummy.png",
     "signupBonus": "₹188",
-    "minWithdraw": "₹100"
+    "minWithdraw": "₹100",
+    "new": "yes",
+    "size": "47.58",
+    "version": "1.1.7"
   },
   {
     "slug": "boss-rummy",
     "name": "Boss Rummy",
     "image": "https://img.yonoallgames.app/apps/boss-rummy.png",
     "signupBonus": "₹66",
-    "minWithdraw": "₹100"
+    "minWithdraw": "₹100",
+    "new": "yes",
+    "size": "52.84",
+    "version": "1.3.1"
   },
   {
     "slug": "hindi-777",
     "name": "Hindi 777",
     "image": "https://img.yonoallgames.app/apps/hindi-777.png",
     "signupBonus": "₹50",
-    "minWithdraw": "₹100"
+    "minWithdraw": "₹100",
+    "new": "yes",
+    "size": "49.47",
+    "version": "1.0.9"
   },
   {
     "slug": "rummy-ludo",
     "name": "Rummy Ludo",
     "image": "https://img.yonoallgames.app/apps/rummy-ludo.png",
     "signupBonus": "₹64",
-    "minWithdraw": "₹100"
+    "minWithdraw": "₹100",
+    "new": "yes",
+    "size": "53.19",
+    "version": "1.2.0"
   },
   {
     "slug": "rumble-rummy",
     "name": "Rumble Rummy",
     "image": "https://img.yonoallgames.app/apps/rumble-rummy.png",
     "signupBonus": "₹77",
-    "minWithdraw": "₹100"
+    "minWithdraw": "₹100",
+    "new": "yes",
+    "size": "48.92",
+    "version": "1.1.4"
   },
   {
     "slug": "share-slots",
     "name": "Share Slots",
     "image": "https://img.yonoallgames.app/apps/share-slots.png",
     "signupBonus": "300",
-    "minWithdraw": "100"
+    "minWithdraw": "100",
+    "size": "51.03",
+    "version": "2.0.0"
   },
   {
     "slug": "love-rummy",
     "name": "Love Rummy",
     "image": "https://img.yonoallgames.app/apps/love-rummy.webp",
     "signupBonus": "200",
-    "minWithdraw": "100"
+    "minWithdraw": "100",
+    "size": "54.61",
+    "version": "1.0.6"
   },
   {
     "slug": "ever-777",
     "name": "Ever 777",
     "image": "https://img.yonoallgames.app/apps/ever-777.png",
     "signupBonus": "₹79",
-    "minWithdraw": "₹100"
+    "minWithdraw": "₹100",
+    "size": "50.44",
+    "version": "1.3.2"
   },
   {
     "slug": "rummy-77",
     "name": "Rummy 77",
     "image": "https://img.yonoallgames.app/apps/rummy-77.png",
     "signupBonus": "₹67",
-    "minWithdraw": "₹100"
+    "minWithdraw": "₹100",
+    "new": "yes",
+    "size": "47.76",
+    "version": "1.1.1"
   },
   {
     "slug": "777-game",
     "name": "777 Game",
     "image": "https://img.yonoallgames.app/apps/777-game.png",
     "signupBonus": "₹77",
-    "minWithdraw": "₹100"
+    "minWithdraw": "₹100",
+    "new": "yes",
+    "size": "52.37",
+    "version": "1.4.1"
   },
   {
     "slug": "ok-rummy",
     "name": "OK Rummy",
     "image": "https://img.yonoallgames.app/apps/ok-rummy.png",
     "signupBonus": "₹59",
-    "minWithdraw": "₹100"
+    "minWithdraw": "₹100",
+    "size": "49.20",
+    "version": "1.0.3"
   },
   {
     "slug": "club-inr",
     "name": "Club INR",
     "image": "https://img.yonoallgames.app/apps/club-inr.png",
     "signupBonus": "₹88",
-    "minWithdraw": "₹100"
+    "minWithdraw": "₹100",
+    "size": "53.88",
+    "version": "1.2.5"
   },
   {
     "slug": "maha-games",
     "name": "Maha Games",
     "image": "https://img.yonoallgames.app/apps/maha-games.png",
     "signupBonus": "₹300",
-    "minWithdraw": "₹100"
+    "minWithdraw": "₹100",
+    "size": "48.05",
+    "version": "2.1.0"
   },
   {
     "slug": "hi-rummy",
     "name": "Hi Rummy",
     "image": "https://img.yonoallgames.app/apps/hi-rummy.png",
     "signupBonus": "₹77",
-    "minWithdraw": "₹100"
+    "minWithdraw": "₹100",
+    "size": "51.62",
+    "version": "1.0.7"
   },
   {
     "slug": "yono-777",
     "name": "Yono 777",
     "image": "https://img.yonoallgames.app/apps/yono-777.png",
     "signupBonus": "₹84",
-    "minWithdraw": "₹100"
+    "minWithdraw": "₹100",
+    "size": "54.29",
+    "version": "1.3.3"
   },
   {
     "slug": "spin-101",
     "name": "Spin 101",
     "image": "https://img.yonoallgames.app/apps/spin-101.png",
     "signupBonus": "₹60",
-    "minWithdraw": "₹100"
+    "minWithdraw": "₹100",
+    "size": "50.91",
+    "version": "1.1.5"
   },
   {
     "slug": "jaiho-win",
     "name": "Jaiho Win",
     "image": "https://img.yonoallgames.app/apps/jaiho-win.png",
     "signupBonus": "₹70",
-    "minWithdraw": "₹100"
+    "minWithdraw": "₹100",
+    "size": "47.41",
+    "version": "1.2.2"
   },
   {
     "slug": "yono-games",
     "name": "Yono Games",
     "image": "https://img.yonoallgames.app/apps/yono-games.png",
     "signupBonus": "₹64",
-    "minWithdraw": "₹100"
+    "minWithdraw": "₹100",
+    "size": "52.58",
+    "version": "1.0.4"
   },
   {
     "slug": "ind-club",
     "name": "Ind Club",
     "image": "https://img.yonoallgames.app/apps/ind-club.png",
     "signupBonus": "₹50",
-    "minWithdraw": "₹100"
+    "minWithdraw": "₹100",
+    "size": "49.73",
+    "version": "1.4.2"
   },
   {
     "slug": "top-rummy",
     "name": "Top Rummy",
     "image": "https://img.yonoallgames.app/apps/top-rummy.png",
     "signupBonus": "₹70",
-    "minWithdraw": "₹100"
+    "minWithdraw": "₹100",
+    "size": "53.06",
+    "version": "1.1.8"
   },
   {
     "slug": "jaiho-arcade",
     "name": "Jaiho Arcade",
     "image": "https://img.yonoallgames.app/apps/jaiho-arcade.png",
     "signupBonus": "₹50",
-    "minWithdraw": "₹100"
+    "minWithdraw": "₹100",
+    "size": "48.49",
+    "version": "2.0.2"
   },
   {
     "slug": "jaiho-spin",
     "name": "Jaiho Spin",
     "image": "https://img.yonoallgames.app/apps/jaiho-spin.png",
     "signupBonus": "₹100",
-    "minWithdraw": "₹100"
+    "minWithdraw": "₹100",
+    "size": "51.27",
+    "version": "1.0.1"
   },
   {
     "slug": "jaiho-slots",
     "name": "Jaiho Slots",
     "image": "https://img.yonoallgames.app/apps/jaiho-slots.png",
     "signupBonus": "₹50",
-    "minWithdraw": "₹100"
+    "minWithdraw": "₹100",
+    "size": "54.83",
+    "version": "1.2.6"
   },
   {
     "slug": "abc-rummy",
     "name": "ABC Rummy",
     "image": "https://img.yonoallgames.app/apps/abc-rummy.webp",
     "signupBonus": "₹54",
-    "minWithdraw": "₹100"
+    "minWithdraw": "₹100",
+    "size": "50.16",
+    "version": "1.3.4"
   },
   {
     "slug": "jaiho-rummy",
     "name": "Jaiho Rummy",
     "image": "https://img.yonoallgames.app/apps/jaiho-rummy.png",
     "signupBonus": "₹47",
-    "minWithdraw": "₹100"
+    "minWithdraw": "₹100",
+    "size": "47.69",
+    "version": "1.1.2"
   },
   {
     "slug": "yn-777",
     "name": "YN 777",
     "image": "https://img.yonoallgames.app/apps/yn-777.png",
     "signupBonus": "₹94",
-    "minWithdraw": "₹100"
+    "minWithdraw": "₹100",
+    "size": "52.91",
+    "version": "1.0.0"
   },
   {
     "slug": "saga-slots",
     "name": "Saga Slots",
     "image": "https://img.yonoallgames.app/apps/saga-slots.png",
     "signupBonus": "₹70",
-    "minWithdraw": "₹100"
+    "minWithdraw": "₹100",
+    "size": "49.38",
+    "version": "1.4.0"
   },
   {
     "slug": "neta-vip",
     "name": "Neta VIP",
     "image": "https://img.yonoallgames.app/apps/neta-vip.png",
     "signupBonus": "₹70",
-    "minWithdraw": "₹100"
+    "minWithdraw": "₹100",
+    "size": "53.45",
+    "version": "1.2.3"
   },
   {
     "slug": "yono-slots",
     "name": "Yono Slots",
     "image": "https://img.yonoallgames.app/apps/yono-slots.webp",
     "signupBonus": "₹64",
-    "minWithdraw": "₹100"
+    "minWithdraw": "₹100",
+    "size": "48.14",
+    "version": "1.1.6"
   },
   {
     "slug": "ind-bingo",
     "name": "Ind Bingo",
     "image": "https://img.yonoallgames.app/apps/ind-bingo.png",
     "signupBonus": "₹35",
-    "minWithdraw": "₹100"
+    "minWithdraw": "₹100",
+    "size": "51.80",
+    "version": "2.0.4"
   },
   {
     "slug": "101-z",
     "name": "101 Z",
     "image": "https://img.yonoallgames.app/apps/101-z.png",
     "signupBonus": "₹90",
-    "minWithdraw": "₹100"
+    "minWithdraw": "₹100",
+    "size": "54.17",
+    "version": "1.0.5"
   },
   {
     "slug": "567-slots",
     "name": "567 Slots",
     "image": "https://img.yonoallgames.app/apps/567-slots.jpeg",
     "signupBonus": "₹45",
-    "minWithdraw": "₹100"
+    "minWithdraw": "₹100",
+    "size": "50.52",
+    "version": "1.3.0"
   },
   {
     "slug": "spin-lucky",
     "name": "Spin Lucky",
     "image": "https://img.yonoallgames.app/apps/spin-lucky.webp",
     "signupBonus": "₹70",
-    "minWithdraw": "₹100"
+    "minWithdraw": "₹100",
+    "size": "47.97",
+    "version": "1.1.9"
   },
   {
     "slug": "spin-crush",
     "name": "Spin Crush",
     "image": "https://img.yonoallgames.app/apps/spin-crush.png",
     "signupBonus": "₹90",
-    "minWithdraw": "₹100"
+    "minWithdraw": "₹100",
+    "size": "52.23",
+    "version": "1.2.7"
   },
   {
     "slug": "yono-arcade",
     "name": "Yono Arcade",
     "image": "https://img.yonoallgames.app/apps/yono-arcade.png",
     "signupBonus": "₹80",
-    "minWithdraw": "₹100"
+    "minWithdraw": "₹100",
+    "size": "49.56",
+    "version": "1.0.8"
   },
   {
     "slug": "spin-777",
     "name": "Spin 777",
     "image": "https://img.yonoallgames.app/apps/spin-777.png",
     "signupBonus": "₹50",
-    "minWithdraw": "₹100"
+    "minWithdraw": "₹100",
+    "size": "53.71",
+    "version": "1.4.3"
   },
   {
     "slug": "spin-winner",
     "name": "Spin Winner",
     "image": "https://img.yonoallgames.app/apps/spin-winner.png",
     "signupBonus": "₹50",
-    "minWithdraw": "₹100"
+    "minWithdraw": "₹100",
+    "size": "48.81",
+    "version": "1.1.0"
   },
   {
     "slug": "gogo-rummy",
     "name": "GOGO Rummy",
     "image": "https://img.yonoallgames.app/apps/gogo-rummy.png",
     "signupBonus": "₹64",
-    "minWithdraw": "₹100"
+    "minWithdraw": "₹100",
+    "size": "51.09",
+    "version": "2.1.1"
   },
   {
     "slug": "bet-213",
     "name": "BeT 213",
     "image": "https://img.yonoallgames.app/apps/bet-213.png",
     "signupBonus": "₹71",
-    "minWithdraw": "₹100"
+    "minWithdraw": "₹100",
+    "size": "54.48",
+    "version": "1.0.2"
   },
   {
     "slug": "ind-slots",
     "name": "IND Slots",
     "image": "https://img.yonoallgames.app/apps/ind-slots.jpeg",
     "signupBonus": "₹60",
-    "minWithdraw": "₹100"
+    "minWithdraw": "₹100",
+    "size": "50.35",
+    "version": "1.3.5"
   },
   {
     "slug": "ind-rummy",
     "name": "IND Rummy",
     "image": "https://img.yonoallgames.app/apps/ind-rummy.png",
     "signupBonus": "₹71",
-    "minWithdraw": "₹100"
+    "minWithdraw": "₹100",
+    "size": "47.52",
+    "version": "1.2.1"
   },
   {
     "slug": "rummy-91",
     "name": "Rummy 91",
     "image": "https://img.yonoallgames.app/apps/rummy-91.png",
     "signupBonus": "₹70",
-    "minWithdraw": "₹100"
+    "minWithdraw": "₹100",
+    "size": "52.76",
+    "version": "1.0.6"
   },
   {
     "slug": "rummy-365",
     "name": "Rummy 365",
     "image": "https://img.yonoallgames.app/apps/rummy-365.png",
     "signupBonus": "₹54",
-    "minWithdraw": "₹100"
+    "minWithdraw": "₹100",
+    "size": "49.02",
+    "version": "1.1.3"
   },
   {
     "slug": "789-jackpots",
     "name": "789 Jackpots",
     "image": "https://img.yonoallgames.app/apps/789-jackpot.jpeg",
     "signupBonus": "₹80",
-    "minWithdraw": "₹100"
+    "minWithdraw": "₹100",
+    "size": "53.34",
+    "version": "1.4.1"
   },
   {
     "slug": "slots-spin",
     "name": "Slots Spin",
     "image": "https://img.yonoallgames.app/apps/slots-spin.png",
     "signupBonus": "₹40",
-    "minWithdraw": "₹100"
+    "minWithdraw": "₹100",
+    "size": "48.26",
+    "version": "1.0.9"
   },
   {
     "slug": "mbm-bet",
     "name": "MBM Bet",
     "image": "https://img.yonoallgames.app/apps/mbm-bet.png",
     "signupBonus": "₹40",
-    "minWithdraw": "₹100"
+    "minWithdraw": "₹100",
+    "size": "51.55",
+    "version": "1.2.0"
   },
   {
     "slug": "diwa-vip",
     "name": "Diwa Vip",
     "image": "https://img.yonoallgames.app/apps/diwa-vip.webp",
     "signupBonus": "₹51",
-    "minWithdraw": "₹100"
+    "minWithdraw": "₹100",
+    "size": "54.92",
+    "version": "1.3.1"
   },
   {
     "slug": "diwa-slot",
     "name": "Diwa Slot",
     "image": "https://img.yonoallgames.app/apps/Diwa-slot.webp",
     "signupBonus": "₹50",
-    "minWithdraw": "₹100"
+    "minWithdraw": "₹100",
+    "size": "50.08",
+    "version": "1.1.4"
   }
 ]

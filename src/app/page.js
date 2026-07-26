@@ -16,17 +16,17 @@ export const metadata = {
     },
   },
   alternates: {
-    canonical: "https://yonorummyhome.com",
+    canonical: "https://freeyonorummy.com",
   },
   openGraph: {
     title: "Free Yono Rummy – Rummy, Slots & Bonus Reward Apps",
     description:
       "Explore Free Yono Rummy – your trusted directory for Yono apps, Rummy, Slots & Bonus rewards. Find all Yono games with reviews, ratings & safe download links.",
-    url: "https://yonorummyhome.com",
+    url: "https://freeyonorummy.com",
     siteName: "Free Yono Rummy",
     images: [
       {
-        url: "https://img.yonoallgames.app/logo/yono-all-games.webp",
+        url: "https://img.yonostore.app/logo/free-yono-rummy.webp",
         width: 1200,
         height: 630,
         alt: "Free Yono Rummy – Rummy, Slots & Bonus Apps",
@@ -47,8 +47,8 @@ export const metadata = {
     title: "Free Yono Rummy – Rummy, Slots & Bonus Reward Apps",
     description:
       "Explore Free Yono Rummy – your trusted directory for Yono apps, Rummy, Slots & Bonus rewards. Find all Yono games with reviews, ratings & safe download links.",
-    images: ["https://img.yonoallgames.app/logo/yono-all-games.webp"],
-    site: "@yono_store",
+    images: ["https://img.yonostore.app/logo/free-yono-rummy.webp"],
+    site: "@freeyonorummy",
   },
 };
 
@@ -72,13 +72,13 @@ export default function HomePage() {
               "@context": "https://schema.org",
               "@type": "WebSite",
               name: "Free Yono Rummy",
-              url: "https://yonorummyhome.com",
+              url: "https://freeyonorummy.com",
               publisher: {
                 "@type": "Organization",
                 name: "Free Yono Rummy",
                 logo: {
                   "@type": "ImageObject",
-                  url: "https://img.yonoallgames.app/logo/yono-all-games.webp"
+                  url: "https://img.yonostore.app/logo/free-yono-rummy.webp"
                 }
               }
             })
@@ -95,17 +95,17 @@ export default function HomePage() {
               applicationCategory: "GameApplication",
               operatingSystem: "Android",
               description:
-                "Explore Yono Rummy Home– your trusted directory for Yono apps, Rummy, Slots & Bonus rewards. Find all Yono games with reviews, ratings & safe download links.",
+                "Explore Free Yono Rummy– your trusted directory for Yono apps, Rummy, Slots & Bonus rewards. Find all Yono games with reviews, ratings & safe download links.",
               featureList: [
                 "Verified Gaming Apps",
                 "Trusted App Reviews",
                 "Bonus & Reward Updates",
                 "App Safety Checker"
               ],
-              url: "https://yonorummyhome.com",
+              url: "https://freeyonorummy.com",
               publisher: {
                 "@type": "Organization",
-                name: "Yono Rummy Home"
+                name: "Free Yono Rummy"
               }
             })
           }}

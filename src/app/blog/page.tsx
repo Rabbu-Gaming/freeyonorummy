@@ -20,13 +20,13 @@ export const metadata: Metadata = {
     title: "Free Yono Rummy Blog – News, Guides & Updates",
     description:
       "Stay updated with guides, stories, and expert insights from the world of trusted Indian game apps.",
-    url: "https://yonorummyhome.com/blog",
+    url: "https://freeyonorummy.com/blog",
     siteName: "Free Yono Rummy",
     locale: "en_IN",
     type: "website",
   },
   alternates: {
-    canonical: "https://yonorummyhome.com/blog",
+    canonical: "https://freeyonorummy.com/blog",
   },
 };
 

@@ -63,8 +63,8 @@ const Navbar = () => {
           <Link href="/" className="flex items-center gap-2 md:ml-0 ml-[-8px] shrink-0">
             <span className="relative flex items-center justify-center w-7 h-7 shrink-0">
               <img
-                src="https://img.yonoallgames.app/logo/yono-all-games.webp"
-                alt="Yono Rummy Home"
+                src="https://img.yonostore.app/logo/free-yono-rummy.webp"
+                alt="Free Yono Rummy Logo"
                 width="28"
                 height="28"
                 loading="eager"
@@ -73,7 +73,7 @@ const Navbar = () => {
               />
             </span>
             <span className="font-bold text-base leading-none tracking-tight whitespace-nowrap text-white">
-              Yono Rummy Home
+              Free Yono Rummy
             </span>
           </Link>
 

@@ -411,11 +411,11 @@ export default async function BlogPostPage({ params }: Props) {
             dateModified: data.date,
             image: data.coverImage,
             description: data.description,
-            url: `https://yonorummyhome.com/blog/${slug}`,
+            url: `https://freeyonorummy.com/blog/${slug}`,
             publisher: {
               "@type": "Organization",
-              name: "Yono Rummy Home",
-              logo: { "@type": "ImageObject", url: "https://img.yonoallgames.app/logo/yono-rummy-home.webp" },
+              name: "Free Yono Rummy",
+              logo: { "@type": "ImageObject", url: "https://img.yonostore.app/logo/free-yono-rummy.webp" },
             },
           }),
         }}
@@ -463,24 +463,24 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { slug } = await params;
   const blog = await readBlogBySlug(slug);
   if (!blog) {
-    return { title: "Blog – Yono Rummy Home", description: "Yono Rummy Home blog" };
+    return { title: "Blog – Free Yono Rummy", description: "Free Yono Rummy blog" };
   }
 
   const { title, description, coverImage, tags, date } = blog.data;
 
   return {
-    title: `${title} | Yono All Games Blog`,
-    description: description || "Read trusted guides, tips, and updates on Yono All Games.",
+    title: `${title} | Free Yono Rummy Blog`,
+    description: description || "Read trusted guides, tips, and updates on Free Yono Rummy.",
     keywords: tags?.join(", ") || undefined,
     robots: {
       index: true,
       follow: true,
     },
     openGraph: {
-      title: `${title} | Yono All Games Blog`,
-      description: description || "Read trusted guides, tips, and updates on Yono All Games.",
-      url: `https://yonorummyhome.com/blog/${slug}`,
-      siteName: "Yono Rummy Home",
+      title: `${title} | Free Yono Rummy Blog`,
+      description: description || "Read trusted guides, tips, and updates on Free Yono Rummy.",
+      url: `https://freeyonorummy.com/blog/${slug}`,
+      siteName: "Free Yono Rummy",
       images: coverImage ? [{ url: coverImage, width: 1200, height: 630, alt: title }] : undefined,
       type: "article",
       locale: "en_IN",
@@ -488,12 +488,12 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     },
     twitter: {
       card: "summary_large_image",
-      title: `${title} | Yono Rummy Home Blog`,
-      description: description || "Read trusted guides, tips, and updates on Yono Rummy Home.",
+      title: `${title} | Free Yono Rummy Blog`,
+      description: description || "Read trusted guides, tips, and updates on Free Yono Rummy.",
       images: coverImage ? [coverImage] : undefined,
     },
     alternates: {
-      canonical: `https://yonorummyhome.com/blog/${slug}`,
+      canonical: `https://freeyonorummy.com/blog/${slug}`,
     },
   };
 }
