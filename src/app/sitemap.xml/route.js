@@ -6,7 +6,7 @@ import appsData from "../../data/apps.json";
 export const dynamic = "force-static";
 
 export async function GET() {
-  const baseUrl = "https://freeyonorummy.com/";
+  const baseUrl = "https://freeyonorummy.com";
   const today = new Date().toISOString().split("T")[0];
 
   const url = (path) => `${baseUrl}${path ? "/" + path : ""}`;
