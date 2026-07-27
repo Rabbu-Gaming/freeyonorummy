@@ -69,7 +69,7 @@ export async function generateMetadata({ params }) {
 
   return {
     title: app.title,
-    description: app.description || `Download ${slug} APK safely from Yono All Games.`,
+    description: app.description || `Download ${slug} APK safely from Free Yono Rummy.`,
     keywords: app.tags || [],
     robots: "index, follow",
     openGraph: {

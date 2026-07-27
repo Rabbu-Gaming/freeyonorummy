@@ -1,6 +1,6 @@
 "use client";
 
-import { useState } from "react";
+import { useState, useRef, useEffect } from "react";
 import Link from "next/link";
 import appsData from "../../data/apps.json";
 import SearchBar, { fuzzyMatch } from "./search";
@@ -17,7 +17,145 @@ function isUpcoming(app) {
   return app.upcoming === "yes";
 }
 
-export default function ClientPage({ h1, subText, h2, apps, current }) {
+function SectionHeading({ title }) {
+  return (
+    <div className="inline-block mb-4">
+      <h2 className="text-[19px] sm:text-[24px] font-extrabold text-gray-900 leading-tight">
+        {title}
+      </h2>
+      <div className="h-[3px] w-14 mt-1.5 rounded-full bg-gradient-to-r from-emerald-600 to-amber-500" />
+    </div>
+  );
+}
+
+function PlusMinusIcon({ open }) {
+  return (
+    <span className="relative w-[16px] h-[16px] shrink-0">
+      <span
+        className={`absolute inset-0 flex items-center justify-center text-[16px] leading-none transition-transform duration-200 ${
+          open ? "rotate-180 opacity-0" : "opacity-100"
+        }`}
+      >
+        +
+      </span>
+      <span
+        className={`absolute inset-0 flex items-center justify-center text-[16px] leading-none transition-transform duration-200 ${
+          open ? "opacity-100" : "opacity-0"
+        }`}
+      >
+        −
+      </span>
+    </span>
+  );
+}
+
+function FAQAccordionItem({ item, index, isOpen, onToggle }) {
+  const bodyRef = useRef(null);
+  const [height, setHeight] = useState(0);
+
+  useEffect(() => {
+    if (bodyRef.current) {
+      setHeight(bodyRef.current.scrollHeight);
+    }
+  }, [item.a, isOpen]);
+
+  return (
+    <div
+      className={`rounded-[10px] border-l-4 bg-white transition-colors duration-200 ${
+        isOpen ? "border-emerald-600 shadow-sm" : "border-gray-200"
+      }`}
+      itemScope
+      itemProp="mainEntity"
+      itemType="https://schema.org/Question"
+    >
+      <button
+        onClick={onToggle}
+        aria-expanded={isOpen}
+        className="w-full flex items-start justify-between gap-3 px-4 py-3.5 text-left focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-emerald-600 focus-visible:ring-offset-1 rounded-[10px]"
+      >
+        <span className="text-[13px] font-bold text-gray-900 leading-snug" itemProp="name">
+          {String(index + 1).padStart(2, "0")}. {item.q}
+        </span>
+        <span
+          className={`shrink-0 mt-0.5 transition-colors duration-200 ${
+            isOpen ? "text-emerald-700" : "text-gray-400"
+          }`}
+        >
+          <PlusMinusIcon open={isOpen} />
+        </span>
+      </button>
+      <div
+        style={{
+          height: isOpen ? height : 0,
+          overflow: "hidden",
+          transition: "height 0.28s cubic-bezier(0.4,0,0.2,1)",
+        }}
+        aria-hidden={!isOpen}
+      >
+        <div
+          ref={bodyRef}
+          className="px-4 pb-4"
+          itemScope
+          itemProp="acceptedAnswer"
+          itemType="https://schema.org/Answer"
+        >
+          <p className="text-[13px] text-gray-600 leading-relaxed" itemProp="text">
+            {item.a}
+          </p>
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function FAQSection({ items }) {
+  const [openIndex, setOpenIndex] = useState(null);
+
+  if (!items?.length) return null;
+
+  const toggle = (index) => {
+    setOpenIndex(openIndex === index ? null : index);
+  };
+
+  return (
+    <div itemScope itemType="https://schema.org/FAQPage">
+      <div className="flex items-center gap-3 mb-5">
+        <div className="flex items-center justify-center w-8 h-8 rounded-lg bg-emerald-50 shrink-0">
+          <svg
+            width="16"
+            height="16"
+            viewBox="0 0 24 24"
+            fill="none"
+            stroke="currentColor"
+            strokeWidth="2.2"
+            strokeLinecap="round"
+            strokeLinejoin="round"
+            className="text-emerald-600"
+          >
+            <circle cx="12" cy="12" r="10" />
+            <path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3" />
+            <line x1="12" y1="17" x2="12.01" y2="17" />
+          </svg>
+        </div>
+        <SectionHeading title="Frequently Asked Questions" />
+      </div>
+
+      <div className="flex flex-col gap-2.5">
+        {items.map((item, index) => (
+          <FAQAccordionItem
+            key={index}
+            item={item}
+            index={index}
+            isOpen={openIndex === index}
+            onToggle={() => toggle(index)}
+          />
+        ))}
+      </div>
+    </div>
+  );
+}
+
+export default function ClientPage({ h1, subText, h2, apps, current, content }) {
   const [query, setQuery] = useState("");
 
   const sourceApps = apps || appsData;
@@ -138,6 +276,56 @@ export default function ClientPage({ h1, subText, h2, apps, current }) {
           )}
         </div>
       </section>
+
+      {content && (
+        <section className="w-full bg-white px-4 py-10 flex justify-center">
+          <div className="w-full max-w-[900px]">
+            {content.intro && (
+              <p className="text-[13px] sm:text-[14px] text-gray-700 leading-relaxed mb-8">
+                {content.intro}
+              </p>
+            )}
+
+            {content.highlights && content.highlights.length > 0 && (
+              <div className="mb-10">
+                <SectionHeading title="Why Players Trust This List" />
+                <div className="grid grid-cols-1 sm:grid-cols-3 gap-3">
+                  {content.highlights.map((item, idx) => (
+                    <div
+                      key={idx}
+                      className="rounded-2xl border border-emerald-100 bg-white px-4 py-4 shadow-sm"
+                    >
+                      <h3 className="text-[12.5px] font-bold text-emerald-800 mb-1">
+                        {item.title}
+                      </h3>
+                      <p className="text-[12px] text-gray-600 leading-relaxed">
+                        {item.desc}
+                      </p>
+                    </div>
+                  ))}
+                </div>
+              </div>
+            )}
+
+            {content.sections && content.sections.length > 0 && (
+              <div className="mb-10 flex flex-col gap-8">
+                {content.sections.map((sec, idx) => (
+                  <div key={idx}>
+                    <SectionHeading title={sec.heading} />
+                    <p className="text-[13px] text-gray-700 leading-relaxed">
+                      {sec.body}
+                    </p>
+                  </div>
+                ))}
+              </div>
+            )}
+
+            {content.faqs && content.faqs.length > 0 && (
+              <FAQSection items={content.faqs} />
+            )}
+          </div>
+        </section>
+      )}
     </>
   );
 }
