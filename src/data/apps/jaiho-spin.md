@@ -7,7 +7,7 @@ rating: 3.9
 signupBonus: "₹100"
 minWithdraw: "₹100"
 totalDownloads: 16
-downloadLink: "https://jaihospin10.com?code=MSXQ3SV1&t=1751701011"
+downloadLink: "https://18jaihospinwin.com/?code=7TAQ9Y2JVBV&t=1785001207"
 ---
 
 ## Jaiho Spin APK Download

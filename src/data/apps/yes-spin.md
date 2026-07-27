@@ -7,7 +7,7 @@ rating: 4.6
 signupBonus: "₹119"
 minWithdraw: "₹100"
 totalDownloads: 89
-downloadLink: "https://www.yesspin00.com/?code=47TFR7Y6TH1&t=1772794634"
+downloadLink: "https://www.dhangmaegame.com/?code=L2VYWL4J9L3&t=1785001683"
 ---
 
 ## Yes Spin APK Download

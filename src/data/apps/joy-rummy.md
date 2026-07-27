@@ -7,7 +7,7 @@ rating: 4.5
 signupBonus: "₹300"
 minWithdraw: "₹100"
 totalDownloads: 56
-downloadLink: "https://www.joyrummy7.com/?code=J5KKWY2CB91&t=1781536734"
+downloadLink: "https://www.jaihowin16.com/?code=1XNPWF6UKEA&t=1785001262"
 ---
 
 ## Joy Rummy APK Download

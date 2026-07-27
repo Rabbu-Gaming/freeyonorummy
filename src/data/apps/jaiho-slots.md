@@ -7,7 +7,7 @@ rating: 4.8
 signupBonus: "₹50"
 minWithdraw: "₹100"
 totalDownloads: 64
-downloadLink: "https://www.jaihoslots16.com/?code=EGP512P29TG&t=1780329445"
+downloadLink: "https://www.jaihoslots21.com/?code=EGPEWNRBL3B&t=1785001143"
 ---
 
 ## Jaiho Slots APK Download

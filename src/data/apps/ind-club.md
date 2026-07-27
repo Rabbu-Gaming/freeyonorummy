@@ -7,7 +7,7 @@ rating: 4.0
 signupBonus: "₹50"
 minWithdraw: "₹100"
 totalDownloads: 81
-downloadLink: "https://indclub39.com/?code=34UPD199598&t=1779770770"
+downloadLink: "https://yonoindludo.com/?code=2BAFBV3H1QX&t=1784282226"
 ---
 
 ## Ind Club APK Download

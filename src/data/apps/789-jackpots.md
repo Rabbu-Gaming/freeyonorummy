@@ -7,7 +7,7 @@ rating: 4.5
 signupBonus: "₹80"
 minWithdraw: "₹100"
 totalDownloads: 17
-downloadLink: "https://789jackpotsrefer04.cc/?code=J7Z5LP2NZ4D&t=1779769887"
+downloadLink: "https://join789jackpots2.cc/?code=vjjTW6CX3RH&t=1784282488"
 ---
 
 ## 789 Jackpots APK Download

@@ -7,7 +7,7 @@ rating: 4.4
 signupBonus: "₹85"
 minWithdraw: "₹100"
 totalDownloads: 66
-downloadLink: "https://jaiho91app.com/?code=C42YBJ6QKGY&t=1778055730"
+downloadLink: "https://www.jaihoslots21.com/?code=EGPEWNRBL3B&t=1785001143"
 ---
 
 ## Jaiho 91 APK Download

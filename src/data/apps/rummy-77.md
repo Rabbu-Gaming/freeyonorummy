@@ -7,7 +7,7 @@ rating: 4.6
 signupBonus: "₹411"
 minWithdraw: "₹100"
 totalDownloads: 22
-downloadLink: "https://rummy77h.net/?code=F3VJWSCY9UB&t=1782370701"
+downloadLink: "https://rummy77k.vip/?code=F3VK3THD9GC&t=1785001807"
 ---
 
 ## Rummy 77 APK Download

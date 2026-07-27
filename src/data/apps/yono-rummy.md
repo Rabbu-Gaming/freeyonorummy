@@ -7,7 +7,7 @@ rating: 4.9
 signupBonus: "₹74"
 minWithdraw: "₹100"
 totalDownloads: 12
-downloadLink: "https://yonorummyii.com?code=vipGK8V1YYQ&t=1754675880"
+downloadLink: "https://yonorummy046.com/?code=VIPZVBL38VH&t=1784282031"
 ---
 
 ## Yono Rummy APK Download

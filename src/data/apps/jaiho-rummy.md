@@ -7,7 +7,7 @@ rating: 4.2
 signupBonus: "₹47"
 minWithdraw: "₹100"
 totalDownloads: 22
-downloadLink: "https://jaihorummycash.com?code=E74UFPFHVW2&t=1751702397"
+downloadLink: "https://www.jaihoslots21.com/?code=EGPEWNRBL3B&t=1785001143"
 ---
 
 ## Jaiho Rummy APK Download

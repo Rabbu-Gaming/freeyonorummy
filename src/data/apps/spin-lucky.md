@@ -7,7 +7,7 @@ rating: 3.8
 signupBonus: "₹70"
 minWithdraw: "₹100"
 totalDownloads: 42
-downloadLink: "https://spinluckys.com?code=FQ0UMHV7248&t=1751005702"
+downloadLink: "https://spin777bb.com/?code=7V92LWE7PD8&t=1785001324"
 ---
 
 ## Spin Lucky APK Download

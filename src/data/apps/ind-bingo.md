@@ -7,7 +7,7 @@ rating: 4.6
 signupBonus: "₹35"
 minWithdraw: "₹100"
 totalDownloads: 74
-downloadLink: "https://hindrummy.com/?code=R9AQPQA3XSZ&t=1779770341"
+downloadLink: "https://yonoindludo.com/?code=2BAFBV3H1QX&t=1784282226"
 ---
 
 ## Ind Bingo APK Download

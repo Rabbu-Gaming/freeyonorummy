@@ -7,7 +7,7 @@ rating: 4.4
 signupBonus: "₹50"
 minWithdraw: "₹100"
 totalDownloads: 58
-downloadLink: "https://sharediwaslots3.vip?pid=443964772&pkg=com.diwaslot.app"
+downloadLink: "https://sharediwaslots5.vip/?pid=403963604&channel=2010002&t=pdd2&pkg=com.diwaslotwhl.app"
 ---
 
 ## Diwa Slot APK Download

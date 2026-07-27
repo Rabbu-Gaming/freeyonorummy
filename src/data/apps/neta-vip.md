@@ -7,7 +7,7 @@ rating: 4.0
 signupBonus: "₹70"
 minWithdraw: "₹100"
 totalDownloads: 16
-downloadLink: "https://neta9.vip?code=DR0LH39JUBU&t=1751708871"
+downloadLink: "https://www.maxrummy10.com/?code=QUMB3FPHQB9&t=1784282192"
 ---
 
 ## Neta VIP APK Download

@@ -7,7 +7,7 @@ rating: 4.4
 signupBonus: "₹60"
 minWithdraw: "₹100"
 totalDownloads: 10
-downloadLink: "https://www.maxrummy7.com/?code=QUMXLNDA98E&t=1783567721"
+downloadLink: "https://www.maxrummy10.com/?code=QUMB3FPHQB9&t=1784282192"
 ---
 
 ## Max Rummy APK Download

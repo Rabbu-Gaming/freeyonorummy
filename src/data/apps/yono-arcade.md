@@ -7,7 +7,7 @@ rating: 4.0
 signupBonus: "₹80"
 minWithdraw: "₹100"
 totalDownloads: 14
-downloadLink: "https://uonoarcadeagent5.com?code=V17WQHP32YX&t=1751005813"
+downloadLink: "https://www.yonoslotst.com/?code=V912T2AQMQ7&t=1785001055"
 ---
 
 ## Yono Arcade APK Download

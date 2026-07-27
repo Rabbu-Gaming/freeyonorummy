@@ -7,7 +7,7 @@ rating: 4.3
 signupBonus: "₹70"
 minWithdraw: "₹100"
 totalDownloads: 13
-downloadLink: "https://www.rummy91m.bet?code=4ktVYXZGURN&t=1751007194"
+downloadLink: "https://rummy77k.vip/?code=F3VK3THD9GC&t=1785001807"
 ---
 
 ## Rummy 91 APK Download

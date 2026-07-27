@@ -7,7 +7,7 @@ rating: 4.5
 signupBonus: "₹88"
 minWithdraw: "₹100"
 totalDownloads: 98
-downloadLink: "https://www.toprummy.cc/?code=7K9Y98JCUWJ&t=1779771022"
+downloadLink: "https://spin777bb.com/?code=7V92LWE7PD8&t=1785001324"
 ---
 
 ## Top Rummy APK Download

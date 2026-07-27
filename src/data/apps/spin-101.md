@@ -7,7 +7,7 @@ rating: 3.9
 signupBonus: "₹60"
 minWithdraw: "₹100"
 totalDownloads: 17
-downloadLink: "https://spin101-e.vip?code=351RRN1BV6L&t=1754564954"
+downloadLink: "https://spin777bb.com/?code=7V92LWE7PD8&t=1785001324"
 ---
 
 ## Spin 101 APK Download

@@ -7,7 +7,7 @@ rating: 4.6
 signupBonus: "₹150"
 minWithdraw: "₹100"
 totalDownloads: 24
-downloadLink: "https://spinwinner-g.com/?code=R4X1SHR5JT5&t=1784179814"
+downloadLink: "https://spinwinner-g.com/?code=SDNA22QHUEG&t=1784281967"
 ---
 
 ## Spin Winner APK Download

@@ -7,7 +7,7 @@ rating: 4.5
 signupBonus: "₹64"
 minWithdraw: "₹100"
 totalDownloads: 48
-downloadLink: "https://rummyludo7.com/?code=UWPCUTHN9SF&t=1772795884"
+downloadLink: "https://rummy77k.vip/?code=F3VK3THD9GC&t=1785001807"
 ---
 
 ## Rummy Ludo APK Download

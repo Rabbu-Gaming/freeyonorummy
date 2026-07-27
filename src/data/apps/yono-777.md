@@ -7,7 +7,7 @@ rating: 4.5
 signupBonus: "₹84"
 minWithdraw: "₹100"
 totalDownloads: 12
-downloadLink: "https://referyono777.com/?code=P2AZQKY2BCA&t=1754564898"
+downloadLink: "https://www.yonoslotst.com/?code=V912T2AQMQ7&t=1785001055"
 ---
 
 ## Yono 777 APK Download

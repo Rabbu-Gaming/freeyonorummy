@@ -7,7 +7,7 @@ rating: 4.6
 signupBonus: "₹300"
 minWithdraw: "₹100"
 totalDownloads: 28
-downloadLink: "https://www.hirummyagent.club?code=RX3JVES6A9D&t=1754564854"
+downloadLink: "https://www.hindi777agent3.com/?code=7LFF61X8W6D&t=1785001380"
 ---
 
 ## Hi Rummy APK Download

@@ -7,7 +7,7 @@ rating: 4.5
 signupBonus: "₹47"
 minWithdraw: "₹100"
 totalDownloads: 52
-downloadLink: "https://inrrummy1.vip/?code=JMQ3EW89SL8&t=1772801153"
+downloadLink: "https://yonoindludo.com/?code=2BAFBV3H1QX&t=1784282226"
 ---
 
 ## INR Rummy APK Download

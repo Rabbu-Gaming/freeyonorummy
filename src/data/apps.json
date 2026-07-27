@@ -30,6 +30,16 @@
     "version": "1.1.3"
   },
   {
+    "slug": "win-rummy",
+    "name": "Win Rummy",
+    "image": "https://img.yonoallgames.app/apps/win-rummy.png",
+    "signupBonus": "₹67",
+    "minWithdraw": "₹100",
+    "new": "yes",
+    "size": "48.67",
+    "version": "2.0.1"
+  },
+  {
     "slug": "joy-rummy",
     "name": "Joy Rummy",
     "image": "https://img.yonoallgames.app/apps/joy-rummy.png",
@@ -68,8 +78,8 @@
     "version": "1.1.0"
   },
   {
-    "slug": "slot-winner",
-    "name": "Slot Winner",
+    "slug": "slots-winner",
+    "name": "Slots Winner",
     "image": "https://img.yonoallgames.app/apps/slot-winner.png",
     "signupBonus": "₹60",
     "minWithdraw": "₹100",
@@ -552,6 +562,15 @@
     "signupBonus": "₹51",
     "minWithdraw": "₹100",
     "size": "54.92",
+    "version": "1.3.1"
+  },
+  {
+    "slug": "diwa-win",
+    "name": "Diwa Win",
+    "image": "https://img.yonoallgames.app/apps/diwa-win.webp",
+    "signupBonus": "₹50",
+    "minWithdraw": "₹100",
+    "size": "52.32",
     "version": "1.3.1"
   },
   {

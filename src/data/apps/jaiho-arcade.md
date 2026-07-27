@@ -7,7 +7,7 @@ rating: 4.6
 signupBonus: "₹50"
 minWithdraw: "₹100"
 totalDownloads: 5
-downloadLink: "https://www.jaihoarcade23.com?code=AZDSE41AHYQ&t=1751700734"
+downloadLink: "https://www.jaihoslots21.com/?code=EGPEWNRBL3B&t=1785001143"
 ---
 
 ## Jaiho Arcade APK Download

@@ -7,7 +7,7 @@ rating: 4.4
 signupBonus: "₹50"
 minWithdraw: "₹100"
 totalDownloads: 67
-downloadLink: "https://www.hindi777agent.org/?code=0HSLKLFHC36&t=1772795112"
+downloadLink: "https://www.hindi777agent3.com/?code=7LFF61X8W6D&t=1785001380"
 ---
 
 ## Hindi 777 APK Download

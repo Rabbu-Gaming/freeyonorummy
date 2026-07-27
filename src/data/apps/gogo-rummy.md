@@ -7,7 +7,7 @@ rating: 4.4
 signupBonus: "₹51"
 minWithdraw: "₹100"
 totalDownloads: 63
-downloadLink: "https://www.gogorummy2.com?code=8FWMBC7684M&t=1751006550"
+downloadLink: "https://gamesrummy.net/?code=Q6WMQ1EW7FC&t=1784282264"
 ---
 
 ## Gogo Rummy APK Download

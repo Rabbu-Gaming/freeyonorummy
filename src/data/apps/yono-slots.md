@@ -7,7 +7,7 @@ rating: 4.6
 signupBonus: "₹91"
 minWithdraw: "₹100"
 totalDownloads: 47
-downloadLink: "https://www.yonoslotsy.com?code=97YJDA9NUML&t=1751709183"
+downloadLink: "https://www.yonoslotst.com/?code=V912T2AQMQ7&t=1785001055"
 ---
 
 ## Yono Slots APK Download

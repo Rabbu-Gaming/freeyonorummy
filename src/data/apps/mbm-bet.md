@@ -7,7 +7,7 @@ rating: 4.1
 signupBonus: "₹40"
 minWithdraw: "₹100"
 totalDownloads: 14
-downloadLink: "https://www.mbmbet16.com?code=UPHE3WCGZP8&t=1751785133"
+downloadLink: "https://www.maxrummy10.com/?code=QUMB3FPHQB9&t=1784282192"
 ---
 
 ## MBM Bet APK Download

@@ -7,7 +7,7 @@ rating: 4.2
 signupBonus: "₹79"
 minWithdraw: "₹100"
 totalDownloads: 39
-downloadLink: "https://www.joyrummy15.com/?code=J5KKWY2CB91&t=1772801219"
+downloadLink: "https://gamesrummy.net/?code=Q6WMQ1EW7FC&t=1784282264"
 ---
 
 ## Ever 777 APK Download

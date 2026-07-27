@@ -7,7 +7,7 @@ rating: 3.6
 signupBonus: "₹54"
 minWithdraw: "₹100"
 totalDownloads: 32
-downloadLink: "https://www.abcrummy3.com?code=75CJJ4N7HBX&t=1751701775"
+downloadLink: "https://join789jackpots2.cc/?code=vjjTW6CX3RH&t=1784282488"
 ---
 
 ## ABC Rummy APK Download

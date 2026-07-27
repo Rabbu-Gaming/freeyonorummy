@@ -7,7 +7,7 @@ rating: 4.3
 signupBonus: "₹60"
 minWithdraw: "₹100"
 totalDownloads: 11
-downloadLink: "https://www.indslotspromocode.com/?code=EYMQMZMB671&t=1782371264"
+downloadLink: "https://yonoindludo.com/?code=2BAFBV3H1QX&t=1784282226"
 ---
 
 ## IND Slots APK Download

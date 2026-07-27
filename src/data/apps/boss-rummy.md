@@ -7,7 +7,7 @@ rating: 4.6
 signupBonus: "₹66"
 minWithdraw: "₹100"
 totalDownloads: 67
-downloadLink: " https://www.bossrummydd.com/?code=9HFBU45TE8C&t=1772801055"
+downloadLink: "https://www.bossrummykk.com/?code=LSHSU5VJXJG&t=1783840162"
 ---
 
 ## Boss Rummy APK Download

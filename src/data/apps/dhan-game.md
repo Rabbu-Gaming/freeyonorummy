@@ -7,7 +7,7 @@ rating: 4.5
 signupBonus: "₹777"
 minWithdraw: "₹100"
 totalDownloads: 32
-downloadLink: "https://www.dhangameclub365.com/?code=47TFR7Y6TH1&t=1784780491"
+downloadLink: "https://www.dhangmaegame.com/?code=L2VYWL4J9L3&t=1785001683"
 ---
 
 # Dhan Game APK Download (Latest Version 2026) - Get Up to ₹777 Signup Bonus

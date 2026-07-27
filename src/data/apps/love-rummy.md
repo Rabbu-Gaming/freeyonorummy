@@ -7,7 +7,7 @@ rating: 4.2
 signupBonus: "₹100"
 minWithdraw: "₹100"
 totalDownloads: 32
-downloadLink: "https://www.0loverummy.com?code=AFCMJ3CXV7N&t=1755831925"
+downloadLink: "https://www.jaihowin16.com/?code=1XNPWF6UKEA&t=1785001262"
 ---
 
 ## Love Rummy APK Download

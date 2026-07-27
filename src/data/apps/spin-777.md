@@ -7,7 +7,7 @@ rating: 4.0
 signupBonus: "₹50"
 minWithdraw: "₹100"
 totalDownloads: 19
-downloadLink: "https://spin777-s.com/?code=YLWYWNU6PDV&t=1781176089"
+downloadLink: "https://spin777bb.com/?code=7V92LWE7PD8&t=1785001324"
 ---
 
 ## Spin 777 APK Download

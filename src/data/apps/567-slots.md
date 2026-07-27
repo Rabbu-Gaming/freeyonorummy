@@ -7,7 +7,7 @@ rating: 4.5
 signupBonus: "₹61"
 minWithdraw: "₹100"
 totalDownloads: 78
-downloadLink: "http://567slots66.com?code=9UXWU185AFJ&t=1751005552"
+downloadLink: "https://join567slots.com/?code=YETX8VXDK5L&t=1784282509"
 ---
 
 ## 567 Slots APK Download

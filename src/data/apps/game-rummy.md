@@ -7,7 +7,7 @@ rating: 4.4
 signupBonus: "₹99"
 minWithdraw: "₹100"
 totalDownloads: 143
-downloadLink: "https://gamerummyt.com/?code=GAFQLPP5VC6&t=1772800469"
+downloadLink: "https://gamesrummy.net/?code=Q6WMQ1EW7FC&t=1784282264"
 ---
 
 ## Game Rummy APK Download

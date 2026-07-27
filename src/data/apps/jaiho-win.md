@@ -7,7 +7,7 @@ rating: 4.7
 signupBonus: "₹70"
 minWithdraw: "₹100"
 totalDownloads: 69
-downloadLink: "https://www.jaihowin16.com?code=1XNLC7D7DH6&t=1754564038"
+downloadLink: "https://www.jaihowin16.com/?code=1XNPWF6UKEA&t=1785001262"
 ---
 
 ## Jaiho Win APK Download

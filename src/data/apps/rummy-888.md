@@ -7,7 +7,7 @@ rating: 4.5
 signupBonus: "₹316"
 minWithdraw: "₹100"
 totalDownloads: 84
-downloadLink: "https://rummy888vip32.com/?code=TPU2P7JLACB&t=1772800885"
+downloadLink: "https://rummy77k.vip/?code=F3VK3THD9GC&t=1785001807"
 ---
 
 ## Rummy 888 APK Download

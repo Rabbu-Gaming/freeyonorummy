@@ -7,7 +7,7 @@ rating: 4.3
 signupBonus: "₹67"
 minWithdraw: "₹100"
 totalDownloads: 40
-downloadLink: "https://www.rumblerummy1.com/?code=82M9GWH9R1N&t=1772793766"
+downloadLink: "https://www.rumblerummy555.net/?code=RS3XLNNSAGW&t=1784282163"
 ---
 
 ## Rumble Rummy APK Download

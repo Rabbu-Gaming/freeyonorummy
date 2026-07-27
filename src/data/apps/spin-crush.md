@@ -7,7 +7,7 @@ rating: 4.5
 signupBonus: "₹50"
 minWithdraw: "₹100"
 totalDownloads: 73
-downloadLink: "https://ajedsklgesf.safelyearnmillionsbysharingonepersonaqfxzqyj7.com/?code=ADEVVLDKDVV&t=1782371877"
+downloadLink: "https://bkfadsegtgs.safelyearnmillionsbysharingonepersonaqfxzqyj8.com/?code=ADECEZ25JTD&t=1785001505"
 ---
 
 ## Spin Crush APK Download

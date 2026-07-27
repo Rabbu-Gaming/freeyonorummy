@@ -7,7 +7,7 @@ rating: 4.4
 signupBonus: "₹51"
 minWithdraw: "₹100"
 totalDownloads: 92
-downloadLink: "https://diwavipshare.bet?pid=496995819&channel=2010001&pkg=com.diwavip.app"
+downloadLink: "https://sharediwaslots5.vip/?pid=403963604&channel=2010002&t=pdd2&pkg=com.diwaslotwhl.app"
 ---
 
 ## Diwa Vip APK Download

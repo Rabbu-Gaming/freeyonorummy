@@ -7,7 +7,7 @@ rating: 4.5
 signupBonus: "₹300"
 minWithdraw: "₹100"
 totalDownloads: 57
-downloadLink: "https://mahagames.me?code=J24ZWFKEA9H&t=1754564789"
+downloadLink: "https://g-mahagames.com/?code=J24SMDQMNC3&t=1785001660"
 ---
 
 ## Maha Games APK Download

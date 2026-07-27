@@ -7,7 +7,7 @@ rating: 4.4
 signupBonus: "₹54"
 minWithdraw: "₹100"
 totalDownloads: 11
-downloadLink: "https://www.joyrummy15.com/?code=J5KKWY2CB91&t=1772801219"
+downloadLink: "https://rummy77k.vip/?code=F3VK3THD9GC&t=1785001807"
 ---
 
 ## Rummy 365 APK Download

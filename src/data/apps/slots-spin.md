@@ -7,7 +7,7 @@ rating: 4.1
 signupBonus: "₹40"
 minWithdraw: "₹100"
 totalDownloads: 18
-downloadLink: "https://slotsspinl.com?code=XJBMDQLFGJR&t=1751079952"
+downloadLink: "https://www.slotsspinj.com/?code=XJBK7Q9HZ67&t=1784281889"
 ---
 
 ## Slots Spin APK Download

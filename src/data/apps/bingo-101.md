@@ -7,7 +7,7 @@ rating: 4.0
 signupBonus: "₹74"
 minWithdraw: "₹100"
 totalDownloads: 13
-downloadLink: "https://bingo101.life?code=3WFBPRDNLCP&t=1751710206"
+downloadLink: "https://bin7go101.net/?code=6YF4DX6UPLB&t=1784282460"
 ---
 
 ## Bingo 101 APK Download

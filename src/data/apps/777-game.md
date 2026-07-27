@@ -7,7 +7,7 @@ rating: 4.8
 signupBonus: "₹67"
 minWithdraw: "₹100"
 totalDownloads: 58
-downloadLink: "https://www.777shine.com/?code=H5393TW18MQ&t=1772795653www.777game7.com"
+downloadLink: "https://join567slots.com/?code=YETX8VXDK5L&t=1784282509"
 ---
 
 ## 777 Game APK Download

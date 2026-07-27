@@ -7,7 +7,7 @@ rating: 4.4
 signupBonus: "₹59"
 minWithdraw: "₹100"
 totalDownloads: 48
-downloadLink: "https://clubinr3.vip/?code=WZJFUCMQ7D3&t=1772794885"
+downloadLink: "https://clubinrsvip1.net/?code=9VCL2E9D839&t=1784282380"
 ---
 
 ## Club INR APK Download

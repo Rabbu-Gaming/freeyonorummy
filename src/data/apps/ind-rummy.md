@@ -7,7 +7,7 @@ rating: 4.5
 signupBonus: "₹50"
 minWithdraw: "₹100"
 totalDownloads: 86
-downloadLink: "https://hindrummy.com/?code=R9AQPQA3XSZ&t=1779770341"
+downloadLink: "https://yonoindludo.com/?code=2BAFBV3H1QX&t=1784282226"
 ---
 
 ## Ind Rummy APK Download

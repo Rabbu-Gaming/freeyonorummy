@@ -7,7 +7,7 @@ rating: 4.3
 signupBonus: "₹70"
 minWithdraw: "₹100"
 totalDownloads: 37
-downloadLink: "https://www.sagaslotsww.com?code=41LYS9TJJVC&t=1751708579"
+downloadLink: "https://rummy77k.vip/?code=F3VK3THD9GC&t=1785001807"
 ---
 
 ## Saga Slots APK Download

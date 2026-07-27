@@ -7,7 +7,7 @@ rating: 4.3
 signupBonus: "₹50"
 minWithdraw: "₹100"
 totalDownloads: 18
-downloadLink: "https://yonovipd.com?code=3CRCM731USU&t=1751005930"
+downloadLink: "https://www.yonoslotst.com/?code=V912T2AQMQ7&t=1785001055"
 ---
 
 ## Yono Vip APK Download

@@ -7,7 +7,7 @@ rating: 4.1
 signupBonus: "₹64"
 minWithdraw: "₹100"
 totalDownloads: 12
-downloadLink: "https://uonogames4.com?code=YJK98STS&t=1751079610"
+downloadLink: "https://youonogameapp.com/?code=E5QLN9UW&t=1785001736"
 ---
 
 ## Yono Games APK Download

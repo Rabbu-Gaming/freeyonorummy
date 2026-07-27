@@ -7,7 +7,7 @@ rating: 5.0
 signupBonus: "₹90"
 minWithdraw: "₹100"
 totalDownloads: 92
-downloadLink: "https://jaiho777vip.website/?code=GC2LUEKMTHL&t=1780716509"
+downloadLink: "https://www.jaihoslots21.com/?code=EGPEWNRBL3B&t=1785001143"
 ---
 
 ## Jaiho 777 APK Download

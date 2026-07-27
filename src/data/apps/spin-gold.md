@@ -7,7 +7,7 @@ rating: 3.5
 signupBonus: "₹60"
 minWithdraw: "₹100"
 totalDownloads: 21
-downloadLink: "https://spingoldagents.cc/?code=HLT5A781KWE&t=1751006171"
+downloadLink: "https://spin777bb.com/?code=7V92LWE7PD8&t=1785001324"
 ---
 
 ## Spin Gold APK Download
