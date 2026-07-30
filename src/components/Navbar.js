@@ -107,7 +107,7 @@ const Navbar = () => {
 
           <div className="flex items-center gap-4 md:mr-0 mr-[-8px]">
             <a
-              href="https://t.me/+wsvobC6WazRiOWVl"
+              href="#"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 bg-white/10 hover:bg-white/20 border border-white/30 px-4 py-1.5 rounded-full text-white text-sm font-semibold transition-all duration-200"

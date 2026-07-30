@@ -55,7 +55,7 @@ export default function ClientAppPage({ appData }) {
     .map((word) => word.charAt(0).toUpperCase() + word.slice(1))
     .join(" ");
   const stars = parseFloat(rating) || 0;
-  const telegramWebUrl = "https://t.me/+wsvobC6WazRiOWVl";
+  const telegramWebUrl = "#";
 
   const openTelegram = (e) => {
     e.preventDefault();

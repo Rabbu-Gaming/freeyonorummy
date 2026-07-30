@@ -4,7 +4,7 @@ import React from "react";
 import { TelegramIcon } from "../../components/styles/icons";
 
 export default function TeleCard() {
-  const telegramWebUrl = "https://t.me/+wsvobC6WazRiOWVl";
+  const telegramWebUrl = "#";
 
   const openTelegram = (e: React.MouseEvent) => {
     e.preventDefault();
